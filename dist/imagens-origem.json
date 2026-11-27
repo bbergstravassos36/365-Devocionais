@@ -1,0 +1,2560 @@
+{
+  "source": "365_Devocionais_Completos_Capa_Atualizada_Bergues_Travassos.pdf",
+  "images": [
+    {
+      "day": 1,
+      "title": "Comece pelo que depende de você",
+      "pdfPage": 15,
+      "image": "images/devocionais/dia-001.webp",
+      "sha256": "11c20ecac7985d7d53c7b16b0751b294c24f1505032e85e0a36d9ecbb93606ef"
+    },
+    {
+      "day": 2,
+      "title": "Quem governa seus próprios impulsos",
+      "pdfPage": 20,
+      "image": "images/devocionais/dia-002.webp",
+      "sha256": "936ab172c51f0538fdc61e757a1203fca0977d00d97d24c3fa0929543642e73b"
+    },
+    {
+      "day": 3,
+      "title": "A intenção antes da ação",
+      "pdfPage": 25,
+      "image": "images/devocionais/dia-003.webp",
+      "sha256": "0b70fed63a52ead7adc1b68e3c7aaeb5a03028cd7cd9647adb42e577e76fb01d"
+    },
+    {
+      "day": 4,
+      "title": "O preço das escolhas pequenas",
+      "pdfPage": 30,
+      "image": "images/devocionais/dia-004.webp",
+      "sha256": "32a54e82c9219709810ab36feed693c50a8ea0ccaa5023f4eb2fde536ceeeb34"
+    },
+    {
+      "day": 5,
+      "title": "Disciplina quando ninguém está olhando",
+      "pdfPage": 35,
+      "image": "images/devocionais/dia-005.webp",
+      "sha256": "e4e21e41b9cf40b7a1c02cffde7b9badf54efb8f6d3c117343dc6188888a26c9"
+    },
+    {
+      "day": 6,
+      "title": "A diferença entre desejar e decidir",
+      "pdfPage": 40,
+      "image": "images/devocionais/dia-006.webp",
+      "sha256": "b0810bbc593b9cac48ae25883befd1c9ca8284bf804468fd44e7d06161fc5a7a"
+    },
+    {
+      "day": 7,
+      "title": "Não entregue sua consciência à opinião alheia",
+      "pdfPage": 45,
+      "image": "images/devocionais/dia-007.webp",
+      "sha256": "6d67d206922e9ccab2546fff802f56dabf7e84d21e9dead96c80bcf17521f3d4"
+    },
+    {
+      "day": 8,
+      "title": "Reconheça seus limites sem abandonar seus deveres",
+      "pdfPage": 50,
+      "image": "images/devocionais/dia-008.webp",
+      "sha256": "5a46d779024926ce8080ea3f802f99d1cb8c5dde6863474bb923671879ade2d2"
+    },
+    {
+      "day": 9,
+      "title": "O hábito que forma seu caráter",
+      "pdfPage": 55,
+      "image": "images/devocionais/dia-009.webp",
+      "sha256": "ddaa3c431bbab76b4775d2cda25016f812e735ec946142e002b465d8dbc65bae"
+    },
+    {
+      "day": 10,
+      "title": "A liberdade de dizer não",
+      "pdfPage": 60,
+      "image": "images/devocionais/dia-010.webp",
+      "sha256": "3fb3251dea7eb1b635646a917812dacdd7045b5f690c03facdf53f534325e24a"
+    },
+    {
+      "day": 11,
+      "title": "Examine suas motivações",
+      "pdfPage": 65,
+      "image": "images/devocionais/dia-011.webp",
+      "sha256": "6542110b252fbe0f7a1fd7238ef7872c2347009939d04fb42ab4cad70792753f"
+    },
+    {
+      "day": 12,
+      "title": "Assuma o resultado das suas decisões",
+      "pdfPage": 70,
+      "image": "images/devocionais/dia-012.webp",
+      "sha256": "150535fb459bd5bbfb920d0ee56456f821e11a3905062f6f80e7115dd36fae1c"
+    },
+    {
+      "day": 13,
+      "title": "A coragem de admitir um erro",
+      "pdfPage": 75,
+      "image": "images/devocionais/dia-013.webp",
+      "sha256": "21f07d2c86af6b13880fbc492abc18012726a40fb7ca3ee79ae0ea7b03e6220c"
+    },
+    {
+      "day": 14,
+      "title": "Quando a vontade precisa de direção",
+      "pdfPage": 80,
+      "image": "images/devocionais/dia-014.webp",
+      "sha256": "9e8338e08fc268c2377878a228508d9007234e9cc45e0eabd57e1dbf1ff4c6b7"
+    },
+    {
+      "day": 15,
+      "title": "O valor de cumprir a palavra",
+      "pdfPage": 85,
+      "image": "images/devocionais/dia-015.webp",
+      "sha256": "d4e20c53d5212d07a7d44162c4f8871d7513df715d963856cffc5de8725de110"
+    },
+    {
+      "day": 16,
+      "title": "Não confunda impulso com convicção",
+      "pdfPage": 90,
+      "image": "images/devocionais/dia-016.webp",
+      "sha256": "17293e88baf4ce29042fc8314ebd581c02f87d4cdb4b941a1c354c890f845256"
+    },
+    {
+      "day": 17,
+      "title": "Aprenda a interromper uma reação",
+      "pdfPage": 95,
+      "image": "images/devocionais/dia-017.webp",
+      "sha256": "64fe8de04ad26323b2b523ee1123615da6aab657f2a3d1240cc25d1907646fb0"
+    },
+    {
+      "day": 18,
+      "title": "O perigo de viver no automático",
+      "pdfPage": 100,
+      "image": "images/devocionais/dia-018.webp",
+      "sha256": "30617e9c137701581cb5cbd4baf88783a744f51fad49ca70780e936410196552"
+    },
+    {
+      "day": 19,
+      "title": "A consciência como testemunha",
+      "pdfPage": 105,
+      "image": "images/devocionais/dia-019.webp",
+      "sha256": "1710286abfb9f6080ea800a316ad4daa2376bdb69243c7121b2379dccbc12407"
+    },
+    {
+      "day": 20,
+      "title": "Escolha seus princípios antes da pressão",
+      "pdfPage": 110,
+      "image": "images/devocionais/dia-020.webp",
+      "sha256": "5a0eaca2ea453bc2adb8bd9d1acb8fe5cce8f81b6b9bee0ea493d4784dfff466"
+    },
+    {
+      "day": 21,
+      "title": "O trabalho silencioso do autocontrole",
+      "pdfPage": 115,
+      "image": "images/devocionais/dia-021.webp",
+      "sha256": "93efe50592aaa981d0c59401887f535f8052ec35a37863f20a1af2dd3583b357"
+    },
+    {
+      "day": 22,
+      "title": "Aceite a correção sem defender o orgulho",
+      "pdfPage": 120,
+      "image": "images/devocionais/dia-022.webp",
+      "sha256": "8618674a58dfe524f2da3501803686a0b9e129cc35604618919f19a71d5545ed"
+    },
+    {
+      "day": 23,
+      "title": "Seja fiel nas tarefas sem aplausos",
+      "pdfPage": 125,
+      "image": "images/devocionais/dia-023.webp",
+      "sha256": "882481deb80a281f3f38c8f36264b1b2f80aebef4858e75baf47c8d50cb122a8"
+    },
+    {
+      "day": 24,
+      "title": "O que você alimenta cresce",
+      "pdfPage": 130,
+      "image": "images/devocionais/dia-024.webp",
+      "sha256": "81708f1e0eced5f416488e5b3189716770a4370025dc7c3edd3aa0e5dd18d777"
+    },
+    {
+      "day": 25,
+      "title": "Não transforme um erro em identidade",
+      "pdfPage": 135,
+      "image": "images/devocionais/dia-025.webp",
+      "sha256": "21d91bb706770cb8ad7e24203f5fe7bd6d2fbe58c950c5af0831bf1f98fcd04b"
+    },
+    {
+      "day": 26,
+      "title": "A responsabilidade de recomeçar",
+      "pdfPage": 140,
+      "image": "images/devocionais/dia-026.webp",
+      "sha256": "c2ecdb7f0393da36568a08e2f5f4cf04e0f1d547b2085c8f991f17cc760cb092"
+    },
+    {
+      "day": 27,
+      "title": "Aprenda a esperar antes de responder",
+      "pdfPage": 145,
+      "image": "images/devocionais/dia-027.webp",
+      "sha256": "e23e67c75524c4b77dffec9d5c6306ffe5e228b285b72f72b4fe6163ffeca011"
+    },
+    {
+      "day": 28,
+      "title": "A diferença entre controle e domínio próprio",
+      "pdfPage": 150,
+      "image": "images/devocionais/dia-028.webp",
+      "sha256": "c4017c6fc89d7653d47261e9fbcdda54aa17b9f1aefa16f6d010d6fdda19c6fe"
+    },
+    {
+      "day": 29,
+      "title": "Não faça da comparação seu juiz",
+      "pdfPage": 155,
+      "image": "images/devocionais/dia-029.webp",
+      "sha256": "6c6afb73eeb603ecc12ff3618af51c7d3c70b5a5acb9d2733512dcf72a1df360"
+    },
+    {
+      "day": 30,
+      "title": "O caráter aparece nas decisões difíceis",
+      "pdfPage": 160,
+      "image": "images/devocionais/dia-030.webp",
+      "sha256": "0e8309c0fab25d801417d32d90106fd04971da0135844de0e1c22a70939afbc7"
+    },
+    {
+      "day": 31,
+      "title": "Faça uma avaliação honesta da própria vida",
+      "pdfPage": 165,
+      "image": "images/devocionais/dia-031.webp",
+      "sha256": "c86b3d4b08d7b0e45c65c65041cbae9df758a5c4315913e5d3a8b729c7fe4280"
+    },
+    {
+      "day": 32,
+      "title": "A ira que começa antes das palavras",
+      "pdfPage": 170,
+      "image": "images/devocionais/dia-032.webp",
+      "sha256": "9ff8b42740f2a41db092f04e39638e0d914c338f6bc37e86842a393a3f76c435"
+    },
+    {
+      "day": 33,
+      "title": "Quando o medo decide por você",
+      "pdfPage": 175,
+      "image": "images/devocionais/dia-033.webp",
+      "sha256": "3753a49d075edb4d94ad8fc40788c6927532165dd31e5c33a7683731750eb0e3"
+    },
+    {
+      "day": 34,
+      "title": "Ansiedade e confiança no cuidado de Deus",
+      "pdfPage": 180,
+      "image": "images/devocionais/dia-034.webp",
+      "sha256": "8bf38038801cd12f4983eb5563a0ae1bf1996328cf4806a05d87af3f08285e96"
+    },
+    {
+      "day": 35,
+      "title": "O pensamento que aumenta o sofrimento",
+      "pdfPage": 185,
+      "image": "images/devocionais/dia-035.webp",
+      "sha256": "c05153e55f9a07cac0ec3bffa299e6a12bd77f0589e84c3ba074f24c07d9d8b1"
+    },
+    {
+      "day": 36,
+      "title": "A resposta branda diante da provocação",
+      "pdfPage": 190,
+      "image": "images/devocionais/dia-036.webp",
+      "sha256": "7456ea5eb59c97e46e5d259a5a7c88f318623e251fc9ac9b251f29a09aefb1dc"
+    },
+    {
+      "day": 37,
+      "title": "A inveja que rouba a alegria",
+      "pdfPage": 195,
+      "image": "images/devocionais/dia-037.webp",
+      "sha256": "bbd0909123cc9530cacd7d4869cbfe1449230ecbd3ea9e4c6d7a1386a0e2e02f"
+    },
+    {
+      "day": 38,
+      "title": "O ressentimento que ocupa espaço demais",
+      "pdfPage": 200,
+      "image": "images/devocionais/dia-038.webp",
+      "sha256": "b3fa6e5c4e42f8ac86e80dde938e6032bf8c6673cd8dd30372202cbba7a5aab9"
+    },
+    {
+      "day": 39,
+      "title": "Como lidar com a frustração sem ferir alguém",
+      "pdfPage": 205,
+      "image": "images/devocionais/dia-039.webp",
+      "sha256": "3f6b3b8ac1b122d95d9838f0455bbb4523f563f5b0bbfa5c0262e8e490b0d017"
+    },
+    {
+      "day": 40,
+      "title": "Quando a tristeza pede acolhimento",
+      "pdfPage": 210,
+      "image": "images/devocionais/dia-040.webp",
+      "sha256": "09f7ed3eafc52e77b9ab39c5d5609738cc935a28b7ab606e2ebf2b0a3641a4a0"
+    },
+    {
+      "day": 41,
+      "title": "A diferença entre sentir e obedecer à emoção",
+      "pdfPage": 215,
+      "image": "images/devocionais/dia-041.webp",
+      "sha256": "691fddacb212b46280b7822488a8e967b264475bc37209d6093fed9805644e7d"
+    },
+    {
+      "day": 42,
+      "title": "O silêncio que impede uma ofensa",
+      "pdfPage": 220,
+      "image": "images/devocionais/dia-042.webp",
+      "sha256": "0f7754a23e67c65914f5460a304f7e0c8ec492d97edfe9793cbf8c8464fff4c3"
+    },
+    {
+      "day": 43,
+      "title": "O perigo de alimentar suspeitas",
+      "pdfPage": 225,
+      "image": "images/devocionais/dia-043.webp",
+      "sha256": "a88dfadf88b5fd609c9174b6c1bf0d829033879f843b07b6800346a2c7b49253"
+    },
+    {
+      "day": 44,
+      "title": "A coragem de reconhecer a própria vulnerabilidade",
+      "pdfPage": 230,
+      "image": "images/devocionais/dia-044.webp",
+      "sha256": "40cc018ebd01520b68fb76f2a054ee92b9f8fccd2e4a2f6a72d5e7eb03bdb308"
+    },
+    {
+      "day": 45,
+      "title": "Quando a vergonha impede a confissão",
+      "pdfPage": 235,
+      "image": "images/devocionais/dia-045.webp",
+      "sha256": "cdcc958c63e24da338c3a1979e860c0628491c6251e70b5e68293114178fae6e"
+    },
+    {
+      "day": 46,
+      "title": "A serenidade diante da crítica injusta",
+      "pdfPage": 240,
+      "image": "images/devocionais/dia-046.webp",
+      "sha256": "25133c5e231b4350a00f7df3aa8302440bddf5166aa159b4eac1d9a37313b753"
+    },
+    {
+      "day": 47,
+      "title": "O ciúme e a necessidade de confiança",
+      "pdfPage": 245,
+      "image": "images/devocionais/dia-047.webp",
+      "sha256": "b3f5dceedce7e3604b92f0de142005e5f1a173542190c76de6abea60a9c5195c"
+    },
+    {
+      "day": 48,
+      "title": "Não tome decisões no auge da indignação",
+      "pdfPage": 250,
+      "image": "images/devocionais/dia-048.webp",
+      "sha256": "659a95fe9815dcd26ff5f31e726d2531d5f85ff16a3a7860637ce4f0aff9454d"
+    },
+    {
+      "day": 49,
+      "title": "A amargura que endurece o coração",
+      "pdfPage": 255,
+      "image": "images/devocionais/dia-049.webp",
+      "sha256": "bc128bc4363197879dc0e487bd44162d814845d363bed4ad86522cb5542e971a"
+    },
+    {
+      "day": 50,
+      "title": "O medo de desagradar a todos",
+      "pdfPage": 260,
+      "image": "images/devocionais/dia-050.webp",
+      "sha256": "f8e9538ee424a89e2c2ad413ce60ffe2edea0cba8e5ce37c2864fb8bb746c551"
+    },
+    {
+      "day": 51,
+      "title": "A solidão que merece ser escutada",
+      "pdfPage": 265,
+      "image": "images/devocionais/dia-051.webp",
+      "sha256": "1727c86687cd582d99ea98ebeda7ffadb7ec9b020b2b8dd11664f07bd0a8020c"
+    },
+    {
+      "day": 52,
+      "title": "Como enfrentar a irritação cotidiana",
+      "pdfPage": 270,
+      "image": "images/devocionais/dia-052.webp",
+      "sha256": "4785f538ba78e6d372a811f157b7462d6a9271d1434903a556a3c17031d0dc88"
+    },
+    {
+      "day": 53,
+      "title": "Quando o orgulho se disfarça de ofensa",
+      "pdfPage": 275,
+      "image": "images/devocionais/dia-053.webp",
+      "sha256": "1598ad9d2209e55e4a90261121ae73e726041a70827e0050e766e406264a8fd9"
+    },
+    {
+      "day": 54,
+      "title": "A paz que não depende de circunstâncias perfeitas",
+      "pdfPage": 280,
+      "image": "images/devocionais/dia-054.webp",
+      "sha256": "70338050cc93a89902466a39f84cbfd125ee8f9b14f00e859bd65249e4129fad"
+    },
+    {
+      "day": 55,
+      "title": "A mente ocupada com o que edifica",
+      "pdfPage": 285,
+      "image": "images/devocionais/dia-055.webp",
+      "sha256": "e431f60eec235dd2b9b4437926359a147e5f42d96280b62fec8a16400f11a957"
+    },
+    {
+      "day": 56,
+      "title": "O descanso de quem reconhece suas limitações",
+      "pdfPage": 290,
+      "image": "images/devocionais/dia-056.webp",
+      "sha256": "60217e3567c3e7484c8a780ceef4c3a76c666d70643ac786ff9ec3591bd71a23"
+    },
+    {
+      "day": 57,
+      "title": "A paciência com o próprio processo de amadurecimento",
+      "pdfPage": 295,
+      "image": "images/devocionais/dia-057.webp",
+      "sha256": "008e819a53e97764684c1a2c5603143a65c57be787e3fae54cb2463c0b2cfd9e"
+    },
+    {
+      "day": 58,
+      "title": "A esperança nos dias emocionalmente difíceis",
+      "pdfPage": 300,
+      "image": "images/devocionais/dia-058.webp",
+      "sha256": "f63f587a7bb88fca25f918654e17bb0f5c552a842022237a84d7b31e6cfd068d"
+    },
+    {
+      "day": 59,
+      "title": "Entregue a Deus aquilo que não consegue resolver hoje",
+      "pdfPage": 305,
+      "image": "images/devocionais/dia-059.webp",
+      "sha256": "701c4d7892eefad5d14ed022d9cdf9b7a0098b5b7c3704b38cb57faa2b0e8adc"
+    },
+    {
+      "day": 60,
+      "title": "O tempo que você não recuperará",
+      "pdfPage": 310,
+      "image": "images/devocionais/dia-060.webp",
+      "sha256": "51b0ea30a318dd3cdea5fedd15e43c00528ca88123aeb8a9ff0314e2c9f135ca"
+    },
+    {
+      "day": 61,
+      "title": "Comece a tarefa que vem adiando",
+      "pdfPage": 315,
+      "image": "images/devocionais/dia-061.webp",
+      "sha256": "94e349a38050349d0123e3513eb1e3c8ceba45563645d014fc1bcb77479b1362"
+    },
+    {
+      "day": 62,
+      "title": "A diferença entre estar ocupado e ser fiel",
+      "pdfPage": 320,
+      "image": "images/devocionais/dia-062.webp",
+      "sha256": "c64573ddf4391c5d80902c00dd7e8f3d900787ea011cdbbfa6768f7833944830"
+    },
+    {
+      "day": 63,
+      "title": "Organize suas prioridades diante de Deus",
+      "pdfPage": 325,
+      "image": "images/devocionais/dia-063.webp",
+      "sha256": "a6a02c8a348670e288cbdaa37c6919f2248f9e40073695ac538bebe6457bf64f"
+    },
+    {
+      "day": 64,
+      "title": "A disciplina das pequenas tarefas",
+      "pdfPage": 330,
+      "image": "images/devocionais/dia-064.webp",
+      "sha256": "55fa71d844dfafcb9930ff4afc4306b2774f01e7cd4adcfa214f1604318be6c8"
+    },
+    {
+      "day": 65,
+      "title": "Quando a procrastinação esconde o medo",
+      "pdfPage": 335,
+      "image": "images/devocionais/dia-065.webp",
+      "sha256": "03c96c886326fd1ff6743f6e3d2d7f615577430ec90fe1d97dec26f8b8c5ed64"
+    },
+    {
+      "day": 66,
+      "title": "A constância vence a pressa",
+      "pdfPage": 340,
+      "image": "images/devocionais/dia-066.webp",
+      "sha256": "32c32d31a037779f1329a0e5a9c2c9a6c4187f3cd2b2ce80da371bfbb1b39830"
+    },
+    {
+      "day": 67,
+      "title": "O valor de terminar o que começou",
+      "pdfPage": 345,
+      "image": "images/devocionais/dia-067.webp",
+      "sha256": "4282e6bca3f567c1c846e6a69a57d054cbd9a8f55149c11ffc3de0463f94cd2a"
+    },
+    {
+      "day": 68,
+      "title": "Aprenda a trabalhar sem destruir o descanso",
+      "pdfPage": 350,
+      "image": "images/devocionais/dia-068.webp",
+      "sha256": "cc34fa3f5030f88307540d3feae04e1e1df75c5c0248e0f13c98bd3e8a5a6ed7"
+    },
+    {
+      "day": 69,
+      "title": "O perigo de desperdiçar a manhã em distrações",
+      "pdfPage": 355,
+      "image": "images/devocionais/dia-069.webp",
+      "sha256": "44871a340a92ee47c5d11cf344f49dbd14cb7473023b1bfb0670cfc3afa2020b"
+    },
+    {
+      "day": 70,
+      "title": "Construa hábitos que protejam sua fé",
+      "pdfPage": 360,
+      "image": "images/devocionais/dia-070.webp",
+      "sha256": "a7135c0622aaeaea3e425015587aee6182380de4809a2030f413102dbff52d99"
+    },
+    {
+      "day": 71,
+      "title": "A paciência necessária para aprender",
+      "pdfPage": 365,
+      "image": "images/devocionais/dia-071.webp",
+      "sha256": "a071973c8979f1d77d0b64f84a12c24857fb46d5abfa0dc4e504d7597e077443"
+    },
+    {
+      "day": 72,
+      "title": "Não abandone uma tarefa por falta de reconhecimento",
+      "pdfPage": 370,
+      "image": "images/devocionais/dia-072.webp",
+      "sha256": "7d0b0d0782a4fcbfe40e9d262e6dc7f73b4b487c4cfb10c930a7005cba10c2cf"
+    },
+    {
+      "day": 73,
+      "title": "O trabalho bem-feito como expressão de caráter",
+      "pdfPage": 375,
+      "image": "images/devocionais/dia-073.webp",
+      "sha256": "2c82fd5c2e5c956cce5ede8e9f0c4cdb42301af79f9ec589bace634536672c27"
+    },
+    {
+      "day": 74,
+      "title": "O descanso não é sinal de fracasso",
+      "pdfPage": 380,
+      "image": "images/devocionais/dia-074.webp",
+      "sha256": "5042bf4e7c0d3853804d8d6454eb534c4b28880cb32f4d96ebefe427aea3ffd2"
+    },
+    {
+      "day": 75,
+      "title": "Quando o perfeccionismo paralisa",
+      "pdfPage": 385,
+      "image": "images/devocionais/dia-075.webp",
+      "sha256": "3d794a870598ab3982c6d2d1c81153d2798b8be6d0d1b5e90428ec5f25e1e6aa"
+    },
+    {
+      "day": 76,
+      "title": "Divida grandes objetivos em passos possíveis",
+      "pdfPage": 390,
+      "image": "images/devocionais/dia-076.webp",
+      "sha256": "fdc5240215fbf0ed5ba892281825587017ca482b3ae9ef9123273762b8a04c91"
+    },
+    {
+      "day": 77,
+      "title": "A persistência diante dos resultados lentos",
+      "pdfPage": 395,
+      "image": "images/devocionais/dia-077.webp",
+      "sha256": "e31fb561a3ec388fa421c4b98ffffb382be62914a87e29ec5062fa5cd668d324"
+    },
+    {
+      "day": 78,
+      "title": "O custo de dizer sim a tudo",
+      "pdfPage": 400,
+      "image": "images/devocionais/dia-078.webp",
+      "sha256": "f05647965240ea9c754f680c632d1cda6a8204042ccd9645e62219613e8c3674"
+    },
+    {
+      "day": 79,
+      "title": "Proteja sua atenção das distrações",
+      "pdfPage": 405,
+      "image": "images/devocionais/dia-079.webp",
+      "sha256": "35fd26ca4327456107fc69b4b9bec3a21a866530211214743b180bc0ebce0bc1"
+    },
+    {
+      "day": 80,
+      "title": "Aprenda a delegar sem abandonar a responsabilidade",
+      "pdfPage": 410,
+      "image": "images/devocionais/dia-080.webp",
+      "sha256": "266524af7f3ceea15383a68cc96ba6e4d4fbefaeceedc8d2ecd84a8ef3b2b6c9"
+    },
+    {
+      "day": 81,
+      "title": "O valor de uma rotina de oração",
+      "pdfPage": 415,
+      "image": "images/devocionais/dia-081.webp",
+      "sha256": "9307828acefe612078c9635e3ffe8d3d4208d94e1c56bc588e2f539dcad07859"
+    },
+    {
+      "day": 82,
+      "title": "Quando o cansaço altera seu julgamento",
+      "pdfPage": 420,
+      "image": "images/devocionais/dia-082.webp",
+      "sha256": "82b1919282f81349e95e5e307d9dbc4138454e93ea9c4592c001132eb9116fc7"
+    },
+    {
+      "day": 83,
+      "title": "A fidelidade nos dias comuns",
+      "pdfPage": 425,
+      "image": "images/devocionais/dia-083.webp",
+      "sha256": "26071d1d709abe87754f2e477ac0815a2eb42903e53180508b4cff070317375b"
+    },
+    {
+      "day": 84,
+      "title": "Planeje com humildade diante do futuro",
+      "pdfPage": 430,
+      "image": "images/devocionais/dia-084.webp",
+      "sha256": "8a1acd09b4e59e9984eed4aef37b112c7b3b94e9c99ce0671c45f21790c4e3cd"
+    },
+    {
+      "day": 85,
+      "title": "O hábito de revisar o próprio dia",
+      "pdfPage": 435,
+      "image": "images/devocionais/dia-085.webp",
+      "sha256": "cf6948b16cef99484313eb01222308a3b0d783923b3f0645ddc521f83e16cfc7"
+    },
+    {
+      "day": 86,
+      "title": "Persevere sem transformar esforço em vaidade",
+      "pdfPage": 440,
+      "image": "images/devocionais/dia-086.webp",
+      "sha256": "f2b47d90084e88f690b2fc2b01f9b3a8fae7971f5a11c606552a3e05ca0ee135"
+    },
+    {
+      "day": 87,
+      "title": "Aprenda a mudar um plano que deixou de servir",
+      "pdfPage": 445,
+      "image": "images/devocionais/dia-087.webp",
+      "sha256": "942b9a7c1198589cd286789c16711404e72c44385e14e74b576f8acc4803efe5"
+    },
+    {
+      "day": 88,
+      "title": "Não confunda rapidez com sabedoria",
+      "pdfPage": 450,
+      "image": "images/devocionais/dia-088.webp",
+      "sha256": "e489315e72a1debf00b9c5927c08eb315da3a5b107e28bcf316b8efce847aa5e"
+    },
+    {
+      "day": 89,
+      "title": "Faça hoje a parte que lhe cabe",
+      "pdfPage": 455,
+      "image": "images/devocionais/dia-089.webp",
+      "sha256": "9cad5151c27a76001cac58bc37835a016ad7398a226e63072867136c32f7a2e8"
+    },
+    {
+      "day": 90,
+      "title": "A disciplina que prepara para servir melhor",
+      "pdfPage": 460,
+      "image": "images/devocionais/dia-090.webp",
+      "sha256": "95424a546e9b75d47288aaf0ef88d5797dfde2e58b51db06b770951a87ba7980"
+    },
+    {
+      "day": 91,
+      "title": "Escute antes de formular sua resposta",
+      "pdfPage": 465,
+      "image": "images/devocionais/dia-091.webp",
+      "sha256": "8adf4cdcd70528e61327760de7a2a8d915b3187dea9b9b2d8bb8ab1d69733a0f"
+    },
+    {
+      "day": 92,
+      "title": "A palavra que preserva a dignidade do outro",
+      "pdfPage": 470,
+      "image": "images/devocionais/dia-092.webp",
+      "sha256": "9f9cb65868ce52b2813594b633bc1d015d5921088e14fd8083152b6b2fdbc695"
+    },
+    {
+      "day": 93,
+      "title": "O perdão que interrompe a vingança",
+      "pdfPage": 475,
+      "image": "images/devocionais/dia-093.webp",
+      "sha256": "9cb8f144023fe174bf1368cb542c711f11db864a00c4bef158d653bba898bde6"
+    },
+    {
+      "day": 94,
+      "title": "Reconheça o dano que causou",
+      "pdfPage": 480,
+      "image": "images/devocionais/dia-094.webp",
+      "sha256": "3bcbd7d12e0f3ddcf406f7bf8ec37de2aab78ea864273cb85bf35631b93dcbf2"
+    },
+    {
+      "day": 95,
+      "title": "A humildade necessária para pedir desculpas",
+      "pdfPage": 485,
+      "image": "images/devocionais/dia-095.webp",
+      "sha256": "b522c5362d365c4ae5a2880dede334d2d156914ca6ed5cf303465b072eab51a1"
+    },
+    {
+      "day": 96,
+      "title": "Ame sem transformar afeto em controle",
+      "pdfPage": 490,
+      "image": "images/devocionais/dia-096.webp",
+      "sha256": "982a23e7d3e7743a29852b628a347e710c913a5b70b215d51cbe8f08f46ab902"
+    },
+    {
+      "day": 97,
+      "title": "O respeito nas divergências",
+      "pdfPage": 495,
+      "image": "images/devocionais/dia-097.webp",
+      "sha256": "529be5eadf5042dbb10d41fa4457877b5c1d0ad7b832d194696be492e66a7c7a"
+    },
+    {
+      "day": 98,
+      "title": "Quando a verdade precisa de delicadeza",
+      "pdfPage": 500,
+      "image": "images/devocionais/dia-098.webp",
+      "sha256": "9b8d538a65d040d5961ab7afa8b54c3e8f7cc14d3485529f6b80e64784a36a29"
+    },
+    {
+      "day": 99,
+      "title": "Não use o silêncio como castigo",
+      "pdfPage": 505,
+      "image": "images/devocionais/dia-099.webp",
+      "sha256": "15ba06a74b398607635c4060964bff262471185cd10f9a5b2f0a49b5a1478fd5"
+    },
+    {
+      "day": 100,
+      "title": "A amizade que corrige com lealdade",
+      "pdfPage": 510,
+      "image": "images/devocionais/dia-100.webp",
+      "sha256": "082f576cd5edcf76337d428d9a0ea8ef87dda4ea66ed498b262189eaa4340c79"
+    },
+    {
+      "day": 101,
+      "title": "O perigo da fofoca disfarçada de preocupação",
+      "pdfPage": 515,
+      "image": "images/devocionais/dia-101.webp",
+      "sha256": "08d51d26a1ac3e91e3a2af1f1355f5c4e4cd0ace8f54c592845dfa87d8a9bc99"
+    },
+    {
+      "day": 102,
+      "title": "Aprenda a estabelecer limites honestos",
+      "pdfPage": 520,
+      "image": "images/devocionais/dia-102.webp",
+      "sha256": "63e08a16e17a8ed9811270b8935af0d3ec2f9e6bb6a7202686e5253d7b3a9d70"
+    },
+    {
+      "day": 103,
+      "title": "A reconciliação exige responsabilidade",
+      "pdfPage": 525,
+      "image": "images/devocionais/dia-103.webp",
+      "sha256": "8c2be4c6730a1b785275c099da3dc07c0278b4ab8ac4a53e05ecb7f9c9acf6bc"
+    },
+    {
+      "day": 104,
+      "title": "Não devolva humilhação com humilhação",
+      "pdfPage": 530,
+      "image": "images/devocionais/dia-104.webp",
+      "sha256": "a936a4ad968611531f1ca4deef4eb366cdaa1d23c661250cd69c83d1360065a5"
+    },
+    {
+      "day": 105,
+      "title": "O ciúme não substitui o diálogo",
+      "pdfPage": 535,
+      "image": "images/devocionais/dia-105.webp",
+      "sha256": "0ee6e2af4102aa8165ea9fd1df8cf89a20fd760f0591296b251e96111515e76c"
+    },
+    {
+      "day": 106,
+      "title": "Honre seus pais com atitudes concretas",
+      "pdfPage": 540,
+      "image": "images/devocionais/dia-106.webp",
+      "sha256": "9e3fb876b8ca5855515a123ca1fb8761de8a58ee1651cd3b4f55e57f76e3ea8f"
+    },
+    {
+      "day": 107,
+      "title": "O amor que aparece nas tarefas domésticas",
+      "pdfPage": 545,
+      "image": "images/devocionais/dia-107.webp",
+      "sha256": "240d5a5dbe1d3b3025aba0f21a818e83e6e0e22488e67440c75f7272f61287cb"
+    },
+    {
+      "day": 108,
+      "title": "Como discordar sem destruir a relação",
+      "pdfPage": 550,
+      "image": "images/devocionais/dia-108.webp",
+      "sha256": "b514b002b10cb5d2df0c71de1383ebec9fa651795c35779dc9029f214de76798"
+    },
+    {
+      "day": 109,
+      "title": "A lealdade quando a amizade custa algo",
+      "pdfPage": 555,
+      "image": "images/devocionais/dia-109.webp",
+      "sha256": "f2cb2193711eb5092ba8a9a3bfd51c46a52fcfeaf5347d4a275c7802d0e278a8"
+    },
+    {
+      "day": 110,
+      "title": "Não transforme uma falha alheia em sentença definitiva",
+      "pdfPage": 560,
+      "image": "images/devocionais/dia-110.webp",
+      "sha256": "c04c8ec1913ccf132f644e79d468b0d575a014d337decd204efd6ceea39e3bf4"
+    },
+    {
+      "day": 111,
+      "title": "O cuidado com quem está passando por luto",
+      "pdfPage": 565,
+      "image": "images/devocionais/dia-111.webp",
+      "sha256": "dc86c7ef7362459543eacf0ca71a726656bd1ee4909ef61dbb844591b629267a"
+    },
+    {
+      "day": 112,
+      "title": "A responsabilidade de proteger os vulneráveis",
+      "pdfPage": 570,
+      "image": "images/devocionais/dia-112.webp",
+      "sha256": "b4135bc115bc42d387bd4b17c01dcb78b466d5fa8ec03ab3ec560be465600200"
+    },
+    {
+      "day": 113,
+      "title": "O valor de cumprir promessas dentro de casa",
+      "pdfPage": 575,
+      "image": "images/devocionais/dia-113.webp",
+      "sha256": "41a7894e7b91cc952ca652565289043daed046f0179f372bb7aabcae34b3bd82"
+    },
+    {
+      "day": 114,
+      "title": "A ternura nas conversas difíceis",
+      "pdfPage": 580,
+      "image": "images/devocionais/dia-114.webp",
+      "sha256": "fadf515bff6aee99eca30d51ebda81c44770ffaece70b2e44c38b851398bcd78"
+    },
+    {
+      "day": 115,
+      "title": "O perigo de responder com desprezo",
+      "pdfPage": 585,
+      "image": "images/devocionais/dia-115.webp",
+      "sha256": "5005fc120d40b34dc110be6ee69a9fa47567d8f116b1a71f6678731e9beb96d4"
+    },
+    {
+      "day": 116,
+      "title": "A diferença entre perdoar e tolerar abusos",
+      "pdfPage": 590,
+      "image": "images/devocionais/dia-116.webp",
+      "sha256": "a7f337488f08e6507947af0eed33a70ee4c917cabc17c2d5446f7764c55ed738"
+    },
+    {
+      "day": 117,
+      "title": "Reconstrua a confiança com atitudes verificáveis",
+      "pdfPage": 595,
+      "image": "images/devocionais/dia-117.webp",
+      "sha256": "f90ab209d1bb7e06f9553eb86d1b299df22d3b66bff8ed45b6e002fad4eddd44"
+    },
+    {
+      "day": 118,
+      "title": "A generosidade com quem pensa diferente",
+      "pdfPage": 600,
+      "image": "images/devocionais/dia-118.webp",
+      "sha256": "c9dc2c15b00c31e4bfb6f05c423b5030463e1ed21bca2c2eddf250372b2e08d2"
+    },
+    {
+      "day": 119,
+      "title": "Aprenda a celebrar a conquista de outra pessoa",
+      "pdfPage": 605,
+      "image": "images/devocionais/dia-119.webp",
+      "sha256": "81c746a64b4b5a1c8d89b041075289d803f0b602815d28080882b022a5df47a2"
+    },
+    {
+      "day": 120,
+      "title": "A paz que começa com sua própria conduta",
+      "pdfPage": 610,
+      "image": "images/devocionais/dia-120.webp",
+      "sha256": "a350db6fc56a06393edf8a1e5e8d61f379e4313426988343282b5a6e09170be2"
+    },
+    {
+      "day": 121,
+      "title": "Quando a vida foge dos seus planos",
+      "pdfPage": 615,
+      "image": "images/devocionais/dia-121.webp",
+      "sha256": "af2f712d992754a8185b1c501cd361463abae8743e3c93354884e7329748c81e"
+    },
+    {
+      "day": 122,
+      "title": "A dor que não recebe respostas imediatas",
+      "pdfPage": 620,
+      "image": "images/devocionais/dia-122.webp",
+      "sha256": "8e80fbd6d9762c6c5c6f97a8f12ecb0823d98701fa6354609682be8abffbf27e"
+    },
+    {
+      "day": 123,
+      "title": "Perseverar sem negar o sofrimento",
+      "pdfPage": 625,
+      "image": "images/devocionais/dia-123.webp",
+      "sha256": "4253ab740b9e404efc796dbc97cd10b4937dc21ac2696b4a1ba0430d44212bc5"
+    },
+    {
+      "day": 124,
+      "title": "A esperança durante uma espera prolongada",
+      "pdfPage": 630,
+      "image": "images/devocionais/dia-124.webp",
+      "sha256": "18695610c46ebb8556e87a3bab9c6cccd229cef28094453832408db78f6f36df"
+    },
+    {
+      "day": 125,
+      "title": "O que fazer quando a força acaba",
+      "pdfPage": 635,
+      "image": "images/devocionais/dia-125.webp",
+      "sha256": "f0a479fdeb8618039b4d671d83739e1ea568d377bb65d59e00cc40a4505c4c7a"
+    },
+    {
+      "day": 126,
+      "title": "A fé diante de notícias ruins",
+      "pdfPage": 640,
+      "image": "images/devocionais/dia-126.webp",
+      "sha256": "5293302064521b4762136cf11adc36808baac8ad48c58331553f446284ac6ca3"
+    },
+    {
+      "day": 127,
+      "title": "Não julgue a dor de outra pessoa",
+      "pdfPage": 645,
+      "image": "images/devocionais/dia-127.webp",
+      "sha256": "d4c5c614e7ffb2c5c421201bbc986ed28cab7456105d081c32132db0a4f3c20b"
+    },
+    {
+      "day": 128,
+      "title": "A paciência que amadurece a fé",
+      "pdfPage": 650,
+      "image": "images/devocionais/dia-128.webp",
+      "sha256": "2747a957db2575d2839a7db7423b928557d5073cf1db87ad870225dfbfcabc10"
+    },
+    {
+      "day": 129,
+      "title": "Quando o sofrimento exige ajuda humana",
+      "pdfPage": 655,
+      "image": "images/devocionais/dia-129.webp",
+      "sha256": "df90921d7cf13f10a230abca4536e4cec5e32a04b46598ddb8be31e58b00a09f"
+    },
+    {
+      "day": 130,
+      "title": "O lamento também tem lugar na oração",
+      "pdfPage": 660,
+      "image": "images/devocionais/dia-130.webp",
+      "sha256": "d2194e920c21445a445ab6ec041368e57bd69d881386b2cf249c7ba8446f366b"
+    },
+    {
+      "day": 131,
+      "title": "A coragem de continuar depois de uma perda",
+      "pdfPage": 665,
+      "image": "images/devocionais/dia-131.webp",
+      "sha256": "aa5c551fa69bc9a3e1a5027b6ce0c23466b928dec6abba884191ef04636720c8"
+    },
+    {
+      "day": 132,
+      "title": "Aprenda com o fracasso sem glorificá-lo",
+      "pdfPage": 670,
+      "image": "images/devocionais/dia-132.webp",
+      "sha256": "f836e9eb77acdce9c9e2fad22645d4542293a994c7595f6e13b34bdfa0de12cf"
+    },
+    {
+      "day": 133,
+      "title": "A diferença entre perseverança e teimosia",
+      "pdfPage": 675,
+      "image": "images/devocionais/dia-133.webp",
+      "sha256": "96870d5071467f587eca99519ac19bec383524435a8c5ca202bb64787a03d54f"
+    },
+    {
+      "day": 134,
+      "title": "Quando uma porta se fecha",
+      "pdfPage": 680,
+      "image": "images/devocionais/dia-134.webp",
+      "sha256": "8d5f67c11fa33a2a0b1765d58c1d3841e0f6e8db606804d455b6af222a95923a"
+    },
+    {
+      "day": 135,
+      "title": "A fidelidade em períodos de incerteza",
+      "pdfPage": 685,
+      "image": "images/devocionais/dia-135.webp",
+      "sha256": "f6b7ae4cbbd36fb67d1558a9d64dfcbc072e1f7b760156c416bcbd1fa7f3fc94"
+    },
+    {
+      "day": 136,
+      "title": "Não transforme a provação em amargura",
+      "pdfPage": 690,
+      "image": "images/devocionais/dia-136.webp",
+      "sha256": "39ab7f473bbc88f06bbb47554705327355cfdb9b13f3e29f8c104e3c094d70dd"
+    },
+    {
+      "day": 137,
+      "title": "O valor de receber ajuda",
+      "pdfPage": 695,
+      "image": "images/devocionais/dia-137.webp",
+      "sha256": "f839c313abe3d0a1c3449c8e23c46dbf213f2284a2ee33d08f07c2579fe8ad37"
+    },
+    {
+      "day": 138,
+      "title": "A coragem de começar de novo depois da queda",
+      "pdfPage": 700,
+      "image": "images/devocionais/dia-138.webp",
+      "sha256": "908e1d7cb8651f8a4a7c9200b916544ef0879898165350136a0dfd0b54314267"
+    },
+    {
+      "day": 139,
+      "title": "O consolo que chega por meio de pessoas",
+      "pdfPage": 705,
+      "image": "images/devocionais/dia-139.webp",
+      "sha256": "a570b900fb9fd69c7920bb86817809b1e56ab061ae64debda775c32c47b33f64"
+    },
+    {
+      "day": 140,
+      "title": "A paciência com quem sofre de forma diferente",
+      "pdfPage": 710,
+      "image": "images/devocionais/dia-140.webp",
+      "sha256": "f6f73e2a7181a9ff7757414422af74ea1cbc0f9619bb20800b85ae8c0330f7a6"
+    },
+    {
+      "day": 141,
+      "title": "Quando a injustiça parece vencer",
+      "pdfPage": 715,
+      "image": "images/devocionais/dia-141.webp",
+      "sha256": "b1207a663796c84aa94c5cb31105d2b2af07a46b0b1a160518de88b2cfb5c4b2"
+    },
+    {
+      "day": 142,
+      "title": "A fé que permanece sem exigir explicações",
+      "pdfPage": 720,
+      "image": "images/devocionais/dia-142.webp",
+      "sha256": "1afa1d3d288fc17344b43306ee6075463a18010f161417f78c0be139ac79cd76"
+    },
+    {
+      "day": 143,
+      "title": "O sofrimento não autoriza ferir os outros",
+      "pdfPage": 725,
+      "image": "images/devocionais/dia-143.webp",
+      "sha256": "b03d353a217e9e8ecb15d25a2aa16a856fc624c57496947a265d12348ce73492"
+    },
+    {
+      "day": 144,
+      "title": "Aprenda a reconhecer seus sinais de esgotamento",
+      "pdfPage": 730,
+      "image": "images/devocionais/dia-144.webp",
+      "sha256": "6a61448b873923271f855734180f674fe490a27b39aad94168f6eca0591248e2"
+    },
+    {
+      "day": 145,
+      "title": "A esperança que resiste ao desânimo",
+      "pdfPage": 735,
+      "image": "images/devocionais/dia-145.webp",
+      "sha256": "008dc59e600fbe054de5c4a646c3a8dc129481213d75859518110f17ba30a4f1"
+    },
+    {
+      "day": 146,
+      "title": "O valor espiritual da perseverança diária",
+      "pdfPage": 740,
+      "image": "images/devocionais/dia-146.webp",
+      "sha256": "b66a03fba146dca87e43a136af6eac249bf712305c76ce7667a4a57a7cab88bb"
+    },
+    {
+      "day": 147,
+      "title": "Quando o medo da recaída impede o recomeço",
+      "pdfPage": 745,
+      "image": "images/devocionais/dia-147.webp",
+      "sha256": "a3292f464299168060a7f02caa6f1f82fd58d41e7a0f0f090b1cc0b1915a81b0"
+    },
+    {
+      "day": 148,
+      "title": "A coragem de procurar aconselhamento",
+      "pdfPage": 750,
+      "image": "images/devocionais/dia-148.webp",
+      "sha256": "9ca2683c54b35248d556ae01048d4d72b6034f11845e564e3bbd003420d69ea3"
+    },
+    {
+      "day": 149,
+      "title": "Não carregue sozinho um fardo compartilhável",
+      "pdfPage": 755,
+      "image": "images/devocionais/dia-149.webp",
+      "sha256": "b53b265a43ba99cda4167e413c7f34cbba1d0984b8842df6e74eafbacc281774"
+    },
+    {
+      "day": 150,
+      "title": "A consolação diante da morte",
+      "pdfPage": 760,
+      "image": "images/devocionais/dia-150.webp",
+      "sha256": "6ffb6c4404ec1a61c74b21df9b5fa3b079615c58077e4a44b31afdf9300dbd0a"
+    },
+    {
+      "day": 151,
+      "title": "A confiança que permanece durante a tempestade",
+      "pdfPage": 765,
+      "image": "images/devocionais/dia-151.webp",
+      "sha256": "fbfada91028fe6fabb8f7257904af398191ddd1166fc571e33fa8938e678d87f"
+    },
+    {
+      "day": 152,
+      "title": "O contentamento que não depende de luxo",
+      "pdfPage": 770,
+      "image": "images/devocionais/dia-152.webp",
+      "sha256": "a580d3034731dcd0f75cf8c921216ab34b9c3aa6eb95bb006882aa98ad9cd9af"
+    },
+    {
+      "day": 153,
+      "title": "A diferença entre necessidade e desejo",
+      "pdfPage": 775,
+      "image": "images/devocionais/dia-153.webp",
+      "sha256": "5c36aaa7ecf177c54cb1627a104cd281223f4e50e307e8ffbff8ee64d8c70d92"
+    },
+    {
+      "day": 154,
+      "title": "Dinheiro como ferramenta, não como identidade",
+      "pdfPage": 780,
+      "image": "images/devocionais/dia-154.webp",
+      "sha256": "a22c1195df5b774deaccf3691427e363a9f023ecc1282484a6ea1321cb540c39"
+    },
+    {
+      "day": 155,
+      "title": "A armadilha de medir a vida pela riqueza",
+      "pdfPage": 785,
+      "image": "images/devocionais/dia-155.webp",
+      "sha256": "3d1e117ec9c2f7b306918e2e371da507a490fc9b55f0ea6b918c2f3c56936afd"
+    },
+    {
+      "day": 156,
+      "title": "A disciplina de viver dentro dos próprios recursos",
+      "pdfPage": 790,
+      "image": "images/devocionais/dia-156.webp",
+      "sha256": "037a854cdeb0d5761adbd1363da6aaf156024d84b72b01810b030fb57113cd35"
+    },
+    {
+      "day": 157,
+      "title": "O perigo das dívidas assumidas sem prudência",
+      "pdfPage": 795,
+      "image": "images/devocionais/dia-157.webp",
+      "sha256": "b3cf2456e432f3980f6208c0d8b90081f1710c74514ae9376fe486f70d753270"
+    },
+    {
+      "day": 158,
+      "title": "A honestidade nas transações financeiras",
+      "pdfPage": 800,
+      "image": "images/devocionais/dia-158.webp",
+      "sha256": "b4d26be7ba3053b710bc9e2f749275beff607969ff320d554ff0b727028783ce"
+    },
+    {
+      "day": 159,
+      "title": "Generosidade sem busca de reconhecimento",
+      "pdfPage": 805,
+      "image": "images/devocionais/dia-159.webp",
+      "sha256": "cfee1f83fdca21ba017e48e0d610f3ba522e5671bd9f6433e9d1f10aee06cb88"
+    },
+    {
+      "day": 160,
+      "title": "O valor de repartir o que você tem",
+      "pdfPage": 810,
+      "image": "images/devocionais/dia-160.webp",
+      "sha256": "7740e82f0d8a228bf202212afb5426c208c595af7928de509a988335c991f434"
+    },
+    {
+      "day": 161,
+      "title": "A inveja do padrão de vida alheio",
+      "pdfPage": 815,
+      "image": "images/devocionais/dia-161.webp",
+      "sha256": "c2616ee09b6c2d848f8d3978723ef6df704efdb8cd412f5d15c00fbe9ee4a60c"
+    },
+    {
+      "day": 162,
+      "title": "A ambição que consome a família",
+      "pdfPage": 820,
+      "image": "images/devocionais/dia-162.webp",
+      "sha256": "a0be9f1a85a216bf81b764792840267bca78579648927da01955a062d7b70525"
+    },
+    {
+      "day": 163,
+      "title": "A simplicidade como escolha consciente",
+      "pdfPage": 825,
+      "image": "images/devocionais/dia-163.webp",
+      "sha256": "d73dd4407c88ef278930a237b5b0b32bef3ee62d73e20c04dd3c23042feedd20"
+    },
+    {
+      "day": 164,
+      "title": "Planeje os gastos antes de assumir compromissos",
+      "pdfPage": 830,
+      "image": "images/devocionais/dia-164.webp",
+      "sha256": "91a0b2a4de774fa73bd095791f904dd6c34ed1902aee8b7216df19f4baa4283c"
+    },
+    {
+      "day": 165,
+      "title": "Não confunda prosperidade com aprovação divina",
+      "pdfPage": 835,
+      "image": "images/devocionais/dia-165.webp",
+      "sha256": "895845d2f524045abcfa09ab87e2c533e3d89a38f704e78e57bf2161b197ea87"
+    },
+    {
+      "day": 166,
+      "title": "A tentação de ganhar por meios desonestos",
+      "pdfPage": 840,
+      "image": "images/devocionais/dia-166.webp",
+      "sha256": "54e3ea837ba25f998e1f8deb8b5aa5fecdf62a65a4b19cb450c582946fb32542"
+    },
+    {
+      "day": 167,
+      "title": "O cuidado com o dinheiro confiado a você",
+      "pdfPage": 845,
+      "image": "images/devocionais/dia-167.webp",
+      "sha256": "25ac7e8463b2ee5873acd4bcfbf71f3f3709e4c3758bc9700fdd79627b4c0bb2"
+    },
+    {
+      "day": 168,
+      "title": "Aprenda a receber sem orgulho",
+      "pdfPage": 850,
+      "image": "images/devocionais/dia-168.webp",
+      "sha256": "cdefa1aa8e0a08ea7ae49b99ec8cd8359ed624e7613a69d0f3dfb3cc34b2c968"
+    },
+    {
+      "day": 169,
+      "title": "A generosidade com quem enfrenta necessidade",
+      "pdfPage": 855,
+      "image": "images/devocionais/dia-169.webp",
+      "sha256": "1f3a18669b06de7674beb0b7926ae75b38488857b281c9e359b1000b99f9715e"
+    },
+    {
+      "day": 170,
+      "title": "Quando o consumo tenta preencher um vazio",
+      "pdfPage": 860,
+      "image": "images/devocionais/dia-170.webp",
+      "sha256": "cb86d7070ae58b4c6190ff36327ca296fd4f6a3f07a6d9faf23a24461db74873"
+    },
+    {
+      "day": 171,
+      "title": "O valor de economizar com propósito",
+      "pdfPage": 865,
+      "image": "images/devocionais/dia-171.webp",
+      "sha256": "a822f5853f514cd446c9c7071f742a8db879b935617d200b926a407a6aa9799e"
+    },
+    {
+      "day": 172,
+      "title": "A responsabilidade de sustentar a família",
+      "pdfPage": 870,
+      "image": "images/devocionais/dia-172.webp",
+      "sha256": "ea07ff96a4a397f34db965f5ee9dbc78472294fbd21718038e74c7443e2b080e"
+    },
+    {
+      "day": 173,
+      "title": "A riqueza que não compra caráter",
+      "pdfPage": 875,
+      "image": "images/devocionais/dia-173.webp",
+      "sha256": "dae3702c137c6501dc7233f640e3036ff31e7f26689b2080d9c3a09156b39373"
+    },
+    {
+      "day": 174,
+      "title": "A liberdade de viver sem ostentação",
+      "pdfPage": 880,
+      "image": "images/devocionais/dia-174.webp",
+      "sha256": "3076a5e87cd36c51fc7074251b9a5bc5198f802ab6d61fd14ecfa1e89d25426f"
+    },
+    {
+      "day": 175,
+      "title": "A gratidão pelo pão de cada dia",
+      "pdfPage": 885,
+      "image": "images/devocionais/dia-175.webp",
+      "sha256": "4c0a49ad6d4e9e0171c493bc8a16954cb362465606fd583e5116c36a4dba48cd"
+    },
+    {
+      "day": 176,
+      "title": "Não faça do trabalho um ídolo",
+      "pdfPage": 890,
+      "image": "images/devocionais/dia-176.webp",
+      "sha256": "96dd496ea602ad2f8614b8a0d1a171d9593f6b8e9cc8aa8f96cb53fd56febc32"
+    },
+    {
+      "day": 177,
+      "title": "A ética quando ninguém fiscaliza suas contas",
+      "pdfPage": 895,
+      "image": "images/devocionais/dia-177.webp",
+      "sha256": "781daf2471e0b7872c27ea973b8930d345f90af6f08a62d0d872dee6213ae24b"
+    },
+    {
+      "day": 178,
+      "title": "O perigo de emprestar sem compreender as condições",
+      "pdfPage": 900,
+      "image": "images/devocionais/dia-178.webp",
+      "sha256": "3c3e8873721c1e7d2661217877875a7432d056f54d96825fd77c426122584f0f"
+    },
+    {
+      "day": 179,
+      "title": "A responsabilidade de planejar o futuro",
+      "pdfPage": 905,
+      "image": "images/devocionais/dia-179.webp",
+      "sha256": "636bdec54130755051f4bb14eea29afe4fea002faaae78c6c2a17be0e1664442"
+    },
+    {
+      "day": 180,
+      "title": "Use seus recursos para aliviar sofrimento",
+      "pdfPage": 910,
+      "image": "images/devocionais/dia-180.webp",
+      "sha256": "eb43839fa50945ac71320545fdeab0f9818c52b177aa1c6be3b0e3f2647ad53d"
+    },
+    {
+      "day": 181,
+      "title": "O tesouro que permanece além da posse",
+      "pdfPage": 915,
+      "image": "images/devocionais/dia-181.webp",
+      "sha256": "16bef682826dd32e3feeec5001fef01f1ffc5fa70df140fa92cd701c7cf35a86"
+    },
+    {
+      "day": 182,
+      "title": "Seja a mesma pessoa em público e em privado",
+      "pdfPage": 920,
+      "image": "images/devocionais/dia-182.webp",
+      "sha256": "0484a2ec8ec8e433ead2fca5f17a2d911147fce29a2ef01a6d02cca75c857384"
+    },
+    {
+      "day": 183,
+      "title": "A coragem de falar a verdade",
+      "pdfPage": 925,
+      "image": "images/devocionais/dia-183.webp",
+      "sha256": "26472e14b27aa61f4449648f249a0ee8f27e37d6a44e59858184a010ce371380"
+    },
+    {
+      "day": 184,
+      "title": "Quando obedecer custa reputação",
+      "pdfPage": 930,
+      "image": "images/devocionais/dia-184.webp",
+      "sha256": "9792c0d55b298999a704fc336b4de4439363ce7dc6bcbe8725cd725b5269fcb2"
+    },
+    {
+      "day": 185,
+      "title": "A integridade sob pressão profissional",
+      "pdfPage": 935,
+      "image": "images/devocionais/dia-185.webp",
+      "sha256": "376af9747df7a6954c4c5ea404f71e3ca18b65a7c5fce6699a80360c8624169d"
+    },
+    {
+      "day": 186,
+      "title": "Não venda seus princípios por vantagem imediata",
+      "pdfPage": 940,
+      "image": "images/devocionais/dia-186.webp",
+      "sha256": "7fc56150cc5d66a8f71700a9f546a19934c99efbf8820fd6f5d1ae57b0781989"
+    },
+    {
+      "day": 187,
+      "title": "A justiça começa na forma de tratar pessoas",
+      "pdfPage": 945,
+      "image": "images/devocionais/dia-187.webp",
+      "sha256": "9ec88ffa2c7007082dd2f89150335d89fbe82d23bce4cf7d7982bef42331a798"
+    },
+    {
+      "day": 188,
+      "title": "A coragem de denunciar uma injustiça com responsabilidade",
+      "pdfPage": 950,
+      "image": "images/devocionais/dia-188.webp",
+      "sha256": "91d3bff1ad09a1dd184a729227e021ddaafa1f6a0e22d30d61d2cdb516f4d690"
+    },
+    {
+      "day": 189,
+      "title": "Não use a autoridade para humilhar",
+      "pdfPage": 955,
+      "image": "images/devocionais/dia-189.webp",
+      "sha256": "1b81c85eb5fdf1acfee599165e06ee00885ca56523e16c6b23057793ec912908"
+    },
+    {
+      "day": 190,
+      "title": "O caráter revelado pelo poder",
+      "pdfPage": 960,
+      "image": "images/devocionais/dia-190.webp",
+      "sha256": "4b13386e1d6d2a4df58837e27c78e09b5174fec16abe13be89fbef8c4b3d7d5b"
+    },
+    {
+      "day": 191,
+      "title": "Quando a maioria escolhe o caminho errado",
+      "pdfPage": 965,
+      "image": "images/devocionais/dia-191.webp",
+      "sha256": "03f6f6ebb84c180750b0317d7857b968eb657a08a3d0ecb324094a6b8af42b3e"
+    },
+    {
+      "day": 192,
+      "title": "A diferença entre coragem e imprudência",
+      "pdfPage": 970,
+      "image": "images/devocionais/dia-192.webp",
+      "sha256": "8f84c12dc302f7445ef4a179d1fd976971d0788bb9d148e8a56d279536bc4afe"
+    },
+    {
+      "day": 193,
+      "title": "Cumpra acordos mesmo quando ficam inconvenientes",
+      "pdfPage": 975,
+      "image": "images/devocionais/dia-193.webp",
+      "sha256": "dd57046e4ee757b6c9faaa45a52f064c2afeabcd2df05a0c339a47b7d118544c"
+    },
+    {
+      "day": 194,
+      "title": "Não manipule fatos para vencer uma discussão",
+      "pdfPage": 980,
+      "image": "images/devocionais/dia-194.webp",
+      "sha256": "866c21d19c5b3989d3ddfd675528cc0973fb380a21dc61e36d98bedd6b258024"
+    },
+    {
+      "day": 195,
+      "title": "A responsabilidade de corrigir uma injustiça",
+      "pdfPage": 985,
+      "image": "images/devocionais/dia-195.webp",
+      "sha256": "d4e54d27c28a6f312f65ad8824aab511339d93348b8e593f0959156f31514112"
+    },
+    {
+      "day": 196,
+      "title": "A humildade de reconhecer quem contribuiu com você",
+      "pdfPage": 990,
+      "image": "images/devocionais/dia-196.webp",
+      "sha256": "90ac8b7d0a81cd1ff2bfe76876c8937a391204a21c72d63742632e2b152537a9"
+    },
+    {
+      "day": 197,
+      "title": "Não use a fé para esconder desonestidade",
+      "pdfPage": 995,
+      "image": "images/devocionais/dia-197.webp",
+      "sha256": "2e190bb514a8dba5f8e650a73e0e08466dc5dfc4b35bbd7a12c519b07103d990"
+    },
+    {
+      "day": 198,
+      "title": "O perigo da vaidade moral",
+      "pdfPage": 1000,
+      "image": "images/devocionais/dia-198.webp",
+      "sha256": "22603988454a291ed065c4e5697609b1d65a1e0db92761575243ca609c232eff"
+    },
+    {
+      "day": 199,
+      "title": "A coragem de recusar uma vantagem indevida",
+      "pdfPage": 1005,
+      "image": "images/devocionais/dia-199.webp",
+      "sha256": "d7fdbba3f5804efb3f0d082ca4034a0ea4d0abd806842c34844cb6a6f854ceba"
+    },
+    {
+      "day": 200,
+      "title": "Quando o silêncio protege o culpado",
+      "pdfPage": 1010,
+      "image": "images/devocionais/dia-200.webp",
+      "sha256": "67b55d6cfb38c7938b94e8b38a4afaac30a79d2c7b666726775fc4a3a84d3140"
+    },
+    {
+      "day": 201,
+      "title": "A responsabilidade de cumprir a lei com consciência",
+      "pdfPage": 1015,
+      "image": "images/devocionais/dia-201.webp",
+      "sha256": "eb41f560e80893633bf31b19b6e0fdcc77aed8b57f7b039f7f85c3dbadfe8159"
+    },
+    {
+      "day": 202,
+      "title": "Não confunda lealdade com encobrir erros",
+      "pdfPage": 1020,
+      "image": "images/devocionais/dia-202.webp",
+      "sha256": "099a79523f405d99b3981d045a685bddd3a2cf6715b767a2ec52fa0e9d248f92"
+    },
+    {
+      "day": 203,
+      "title": "A justiça sem favoritismo",
+      "pdfPage": 1025,
+      "image": "images/devocionais/dia-203.webp",
+      "sha256": "0f777a8a541a1a93a91d761ddfe4d8a26b56503490bf15cd2b0f3e2e9af076e9"
+    },
+    {
+      "day": 204,
+      "title": "A honestidade nas palavras e nos números",
+      "pdfPage": 1030,
+      "image": "images/devocionais/dia-204.webp",
+      "sha256": "47cd04e75c246749619cad4f1830b314dc4aaabc8c8b003a39aa49fcc7f0049b"
+    },
+    {
+      "day": 205,
+      "title": "A coragem de corrigir o próprio caminho",
+      "pdfPage": 1035,
+      "image": "images/devocionais/dia-205.webp",
+      "sha256": "7070dd09204cbd1616edf8c0a396b17ff2630be7e2005b1508b6a037f5d78d23"
+    },
+    {
+      "day": 206,
+      "title": "O preço de preservar uma mentira",
+      "pdfPage": 1040,
+      "image": "images/devocionais/dia-206.webp",
+      "sha256": "01a00a9a6bd453460b0346dba4d9c858731cb0e6e3fccacb2a526aef19101d47"
+    },
+    {
+      "day": 207,
+      "title": "A mansidão diante da provocação pública",
+      "pdfPage": 1045,
+      "image": "images/devocionais/dia-207.webp",
+      "sha256": "d47f818a761fee6e65dbf01ed92b514b1d7b8bb92da76742b4a5581bc5abaa4a"
+    },
+    {
+      "day": 208,
+      "title": "O valor de manter a consciência limpa",
+      "pdfPage": 1050,
+      "image": "images/devocionais/dia-208.webp",
+      "sha256": "e6024c480b2b10e69307769f2f49c6cdcb8caaf830576e0b7399e29affff2dc5"
+    },
+    {
+      "day": 209,
+      "title": "Não confunda vingança com justiça",
+      "pdfPage": 1055,
+      "image": "images/devocionais/dia-209.webp",
+      "sha256": "642916dc60e704d5bacd940bc423eedf129c0dce66aa5c51da1dd890f4f23fc4"
+    },
+    {
+      "day": 210,
+      "title": "A fidelidade quando ninguém oferece recompensa",
+      "pdfPage": 1060,
+      "image": "images/devocionais/dia-210.webp",
+      "sha256": "181b9ab664afc2316187eaa99398df6844c9ca12b02522fd6fcb41eedf9369ac"
+    },
+    {
+      "day": 211,
+      "title": "A coragem de defender quem não tem voz",
+      "pdfPage": 1065,
+      "image": "images/devocionais/dia-211.webp",
+      "sha256": "7a3db5cd6324e16d1b9e7e003f9cb4c5ec8fed194924d1684eb00201977b2e90"
+    },
+    {
+      "day": 212,
+      "title": "Uma vida examinada pelos frutos",
+      "pdfPage": 1070,
+      "image": "images/devocionais/dia-212.webp",
+      "sha256": "be1399017d3f8ae4f00c4e6157be70fdea9c3ba54c7660634ec058a7edd26670"
+    },
+    {
+      "day": 213,
+      "title": "A diferença entre informação e sabedoria",
+      "pdfPage": 1075,
+      "image": "images/devocionais/dia-213.webp",
+      "sha256": "c7cdf182385ce2e6063535aea5584552ccbcbc65caa0793aaceb0281db7a4275"
+    },
+    {
+      "day": 214,
+      "title": "Aprenda a fazer perguntas antes de julgar",
+      "pdfPage": 1080,
+      "image": "images/devocionais/dia-214.webp",
+      "sha256": "457fca2ed40f6b89d177c666bf216b3192b1529ee57fa418137069c874d03d6c"
+    },
+    {
+      "day": 215,
+      "title": "O valor de ouvir quem discorda de você",
+      "pdfPage": 1085,
+      "image": "images/devocionais/dia-215.webp",
+      "sha256": "154454cbd85d7e6462ca19e557081a0527796a59b564b7142d7028141ea0197a"
+    },
+    {
+      "day": 216,
+      "title": "Reconheça quando não sabe",
+      "pdfPage": 1090,
+      "image": "images/devocionais/dia-216.webp",
+      "sha256": "255d744d16da0546ab2744583251a82e9f55fe334d8c426183fc8a05dd959c42"
+    },
+    {
+      "day": 217,
+      "title": "A humildade de voltar atrás diante de evidências",
+      "pdfPage": 1095,
+      "image": "images/devocionais/dia-217.webp",
+      "sha256": "dbf430ea97201196bdfc191979e0a2073dee5e776fb9f62e6a13090572d44ef0"
+    },
+    {
+      "day": 218,
+      "title": "Não transforme opinião em fato",
+      "pdfPage": 1100,
+      "image": "images/devocionais/dia-218.webp",
+      "sha256": "cca41d242de3dbee5211822dc392dad125ed65afbd6a2ff2d230bdefc6dc0a01"
+    },
+    {
+      "day": 219,
+      "title": "Examine as fontes antes de compartilhar uma notícia",
+      "pdfPage": 1105,
+      "image": "images/devocionais/dia-219.webp",
+      "sha256": "10aac868f8b8cf0ca88866afef593433e9fb59624952ee2dc5addb46e397ac14"
+    },
+    {
+      "day": 220,
+      "title": "O discernimento diante de conselhos sedutores",
+      "pdfPage": 1110,
+      "image": "images/devocionais/dia-220.webp",
+      "sha256": "8572d671daa9a94627174ceadcc7bd7bc7987df2db0a219abe30eb0c6f872608"
+    },
+    {
+      "day": 221,
+      "title": "A diferença entre conhecimento e arrogância",
+      "pdfPage": 1115,
+      "image": "images/devocionais/dia-221.webp",
+      "sha256": "752c51bdebc86bea8b5b95ef37a530987af9888f82956754344648017afc6fdb"
+    },
+    {
+      "day": 222,
+      "title": "Aprenda com os erros de pessoas experientes",
+      "pdfPage": 1120,
+      "image": "images/devocionais/dia-222.webp",
+      "sha256": "563d2f8fd7599495cbd1b8160aa7b27d3c3f76aa45a2aeab65be27bd19fc7f3b"
+    },
+    {
+      "day": 223,
+      "title": "A sabedoria de reconhecer padrões",
+      "pdfPage": 1125,
+      "image": "images/devocionais/dia-223.webp",
+      "sha256": "0d0fabecf1cb1dd2fbdd2bac84839184dc3fbf02e8605a92d2c440621d14e0d6"
+    },
+    {
+      "day": 224,
+      "title": "Não confunda eloquência com verdade",
+      "pdfPage": 1130,
+      "image": "images/devocionais/dia-224.webp",
+      "sha256": "0aa42e2c4c70c3576494bcb2de99869e23d872c990cf32a35c3ffff8e9c9d0e4"
+    },
+    {
+      "day": 225,
+      "title": "O perigo de ouvir somente quem concorda",
+      "pdfPage": 1135,
+      "image": "images/devocionais/dia-225.webp",
+      "sha256": "25701d3951c23c5fa93d584f5c8133c2c6cba6a7681022b1be5010f4c779eab4"
+    },
+    {
+      "day": 226,
+      "title": "A disciplina de estudar antes de ensinar",
+      "pdfPage": 1140,
+      "image": "images/devocionais/dia-226.webp",
+      "sha256": "bbe42a3311ce641f1930a4c0aba9cdfd0cf9edd47ed8ab2065e097b879a36bd7"
+    },
+    {
+      "day": 227,
+      "title": "A correção que aumenta o entendimento",
+      "pdfPage": 1145,
+      "image": "images/devocionais/dia-227.webp",
+      "sha256": "2f2a816382671af3251e24623d17ea576531eed3eabb1bb47964059ee2771ad0"
+    },
+    {
+      "day": 228,
+      "title": "A sabedoria de escolher o momento certo",
+      "pdfPage": 1150,
+      "image": "images/devocionais/dia-228.webp",
+      "sha256": "90353ac90c9de41057ecdc2711b181b4c7f88bc5438a44ce2f2148eeb0374200"
+    },
+    {
+      "day": 229,
+      "title": "Quando a experiência pessoal não basta",
+      "pdfPage": 1155,
+      "image": "images/devocionais/dia-229.webp",
+      "sha256": "9a26e894f41b619e34ae1d60bd02b19b29865a6f3003711e2fa922dae6727a4e"
+    },
+    {
+      "day": 230,
+      "title": "O valor de observar antes de agir",
+      "pdfPage": 1160,
+      "image": "images/devocionais/dia-230.webp",
+      "sha256": "fa4ec0041b7497f9d0164cd80008ac546abfc877f133d5e99ca05d988029baa0"
+    },
+    {
+      "day": 231,
+      "title": "Não confunda tradição com fundamento bíblico",
+      "pdfPage": 1165,
+      "image": "images/devocionais/dia-231.webp",
+      "sha256": "15d10059b34e7cac8a895cab0af41a1698b3fae6c9e3447013d47338d894e1b4"
+    },
+    {
+      "day": 232,
+      "title": "A prudência diante de promessas extraordinárias",
+      "pdfPage": 1170,
+      "image": "images/devocionais/dia-232.webp",
+      "sha256": "5be19560a58e406d9760877ad24d68b38b749e479983d3ff08d3806df9360d96"
+    },
+    {
+      "day": 233,
+      "title": "Aprenda a distinguir intenção de resultado",
+      "pdfPage": 1175,
+      "image": "images/devocionais/dia-233.webp",
+      "sha256": "28b55eb30b108a9ed456324dc15a373c7d70b71d0d4e65fbdecfe0a3707cb57d"
+    },
+    {
+      "day": 234,
+      "title": "A sabedoria de aceitar limites intelectuais",
+      "pdfPage": 1180,
+      "image": "images/devocionais/dia-234.webp",
+      "sha256": "ebce9b13c8e515270a12df184550bde1d32e15c9435972f3af986caec75c42a4"
+    },
+    {
+      "day": 235,
+      "title": "A responsabilidade de interpretar corretamente as Escrituras",
+      "pdfPage": 1185,
+      "image": "images/devocionais/dia-235.webp",
+      "sha256": "f0ee4e20f8ac292378b07d030fe5b089d4370e6e1a0fe43d655e6bbf4c62544e"
+    },
+    {
+      "day": 236,
+      "title": "O perigo de citar alguém fora de contexto",
+      "pdfPage": 1190,
+      "image": "images/devocionais/dia-236.webp",
+      "sha256": "c44ddbb9b070cb1ec564b7be967997c44d6a479de6c9b4070040104f9be1fa15"
+    },
+    {
+      "day": 237,
+      "title": "A mente ensinável diante da verdade",
+      "pdfPage": 1195,
+      "image": "images/devocionais/dia-237.webp",
+      "sha256": "a27b7da9ac081ddafc861bdd566a7f33b459ac33b744fc5c7b0c15f3518eaa83"
+    },
+    {
+      "day": 238,
+      "title": "A sabedoria de adiar um julgamento precipitado",
+      "pdfPage": 1200,
+      "image": "images/devocionais/dia-238.webp",
+      "sha256": "5f87363a4a86d081f349bf653e215f7772c11f304d8c381c28c42520afcb8f1a"
+    },
+    {
+      "day": 239,
+      "title": "O valor de consultar pessoas competentes",
+      "pdfPage": 1205,
+      "image": "images/devocionais/dia-239.webp",
+      "sha256": "1718cc0f5ea4684e359dd3aa6fd097f4b21372070a8d07851de047a4b03f1195"
+    },
+    {
+      "day": 240,
+      "title": "Quando mudar de ideia demonstra maturidade",
+      "pdfPage": 1210,
+      "image": "images/devocionais/dia-240.webp",
+      "sha256": "e262a4f9b73bd7225da22919a62130dde5d789854189eb3a196902b5b97ca1c2"
+    },
+    {
+      "day": 241,
+      "title": "O discernimento entre convicção e preconceito",
+      "pdfPage": 1215,
+      "image": "images/devocionais/dia-241.webp",
+      "sha256": "ffe5d443dd5a35c896bc6271f66293cf3c5e01d0e35bbe13434e84421c381576"
+    },
+    {
+      "day": 242,
+      "title": "A sabedoria de reconhecer os próprios vieses",
+      "pdfPage": 1220,
+      "image": "images/devocionais/dia-242.webp",
+      "sha256": "7e8d596d034eec8ce7f56d7a6c3345038737b532fccf6d6081376a696bccd241"
+    },
+    {
+      "day": 243,
+      "title": "Transforme conhecimento em conduta",
+      "pdfPage": 1225,
+      "image": "images/devocionais/dia-243.webp",
+      "sha256": "19e6d98f3d8b8c50146de7b36be35525ade27779f6c062bf729e66d00741fd24"
+    },
+    {
+      "day": 244,
+      "title": "Sirva sem transformar ajuda em dívida",
+      "pdfPage": 1230,
+      "image": "images/devocionais/dia-244.webp",
+      "sha256": "6e9fb11e67c667a46ec5dc287fa172ce1ef3ce312ab2fc76f35195f45729c95e"
+    },
+    {
+      "day": 245,
+      "title": "A liderança que começa pelo exemplo",
+      "pdfPage": 1235,
+      "image": "images/devocionais/dia-245.webp",
+      "sha256": "bf3d950b6a39355378de1f92bd1e214771d1cb5c10a88cb8efdf5d0aa50389cb"
+    },
+    {
+      "day": 246,
+      "title": "O dever de cuidar de quem depende de você",
+      "pdfPage": 1240,
+      "image": "images/devocionais/dia-246.webp",
+      "sha256": "f2ff0d3fe9ab4fef4c25dd41b56e68f252ba209e74c04cad57fe0e84a096eeda"
+    },
+    {
+      "day": 247,
+      "title": "O valor de uma presença atenta dentro de casa",
+      "pdfPage": 1245,
+      "image": "images/devocionais/dia-247.webp",
+      "sha256": "d1ff3fe8af086660dcda57d21b83a030f56fdc436d82925eee3cb394d8a5ef40"
+    },
+    {
+      "day": 248,
+      "title": "A autoridade que sabe pedir perdão",
+      "pdfPage": 1250,
+      "image": "images/devocionais/dia-248.webp",
+      "sha256": "ba87512b87c8567518b192b73b8854db9480044539a1767e50452e9bc794193c"
+    },
+    {
+      "day": 249,
+      "title": "A responsabilidade de ensinar pelo comportamento",
+      "pdfPage": 1255,
+      "image": "images/devocionais/dia-249.webp",
+      "sha256": "cee7fc6307ff384252c67f587bcc93ae3dbed2e1edad0754d702af458151d41a"
+    },
+    {
+      "day": 250,
+      "title": "Quando a família precisa de limites claros",
+      "pdfPage": 1260,
+      "image": "images/devocionais/dia-250.webp",
+      "sha256": "f55cd131ae6a1accfb7f33b383183626fe4ffd6c5c60d8c029753f700834b0aa"
+    },
+    {
+      "day": 251,
+      "title": "O trabalho invisível de cuidar de alguém",
+      "pdfPage": 1265,
+      "image": "images/devocionais/dia-251.webp",
+      "sha256": "6489564afd4b1a0de025720a0cbf3022245192a02c60c8eabff2ee4ee3e24a3b"
+    },
+    {
+      "day": 252,
+      "title": "Não use o serviço para controlar os outros",
+      "pdfPage": 1270,
+      "image": "images/devocionais/dia-252.webp",
+      "sha256": "14810ca50e95d6831ef1371926d45079f1d5f2a64b92e905bc2bd603b82ff6c5"
+    },
+    {
+      "day": 253,
+      "title": "O valor de reconhecer o esforço alheio",
+      "pdfPage": 1275,
+      "image": "images/devocionais/dia-253.webp",
+      "sha256": "7aafee3af9f7b7a6429606898396f5c88e371370cb6fa8af9e2a7bff66a207d1"
+    },
+    {
+      "day": 254,
+      "title": "A hospitalidade que respeita a dignidade",
+      "pdfPage": 1280,
+      "image": "images/devocionais/dia-254.webp",
+      "sha256": "5b6d78454ff48a06bbb432dd86090eaf9ff8f7cacb3fb8f794e381182aa2ae1a"
+    },
+    {
+      "day": 255,
+      "title": "A liderança que escuta antes de decidir",
+      "pdfPage": 1285,
+      "image": "images/devocionais/dia-255.webp",
+      "sha256": "3bdd9a34d37ed34b3738dd61c88585169b9db9989697b2bd0db944832c11df1a"
+    },
+    {
+      "day": 256,
+      "title": "A responsabilidade de corrigir sem humilhar",
+      "pdfPage": 1290,
+      "image": "images/devocionais/dia-256.webp",
+      "sha256": "1ab13c05dfd74e3e9cb8b86956fc95c180b00052651901ebeb50c5822e6b2b51"
+    },
+    {
+      "day": 257,
+      "title": "O cuidado com os idosos",
+      "pdfPage": 1295,
+      "image": "images/devocionais/dia-257.webp",
+      "sha256": "f298ef850bc3470f1eff65ef79df114fe54a9ecc3f6ef41200ab8b35b427e398"
+    },
+    {
+      "day": 258,
+      "title": "A dignidade de quem vive em necessidade",
+      "pdfPage": 1300,
+      "image": "images/devocionais/dia-258.webp",
+      "sha256": "6b98c5d9eb6456140c3518bfdb77dda87594781b6a11a6798bf98ef9ca6fd081"
+    },
+    {
+      "day": 259,
+      "title": "A amizade como compromisso de presença",
+      "pdfPage": 1305,
+      "image": "images/devocionais/dia-259.webp",
+      "sha256": "a23eb0dad9043b304d04903695838d87fb079014e1fa97704c4516918cb71a8f"
+    },
+    {
+      "day": 260,
+      "title": "O valor de repartir responsabilidades",
+      "pdfPage": 1310,
+      "image": "images/devocionais/dia-260.webp",
+      "sha256": "84233424d97e54f928b4bd2839ac0a3c3998a813f013cafc4cde0a417aa99590"
+    },
+    {
+      "day": 261,
+      "title": "A coragem de proteger uma criança",
+      "pdfPage": 1315,
+      "image": "images/devocionais/dia-261.webp",
+      "sha256": "25e4555c8088102eb26cab406ab2b1cbeea59e7010a9f6e0c30979879a0e188c"
+    },
+    {
+      "day": 262,
+      "title": "Quando servir exige renunciar ao conforto",
+      "pdfPage": 1320,
+      "image": "images/devocionais/dia-262.webp",
+      "sha256": "33cb2e400818e4c81a34521ab9bd4341f9dc24e3639e782981c392cdb9f75661"
+    },
+    {
+      "day": 263,
+      "title": "O perigo de fazer tudo sozinho",
+      "pdfPage": 1325,
+      "image": "images/devocionais/dia-263.webp",
+      "sha256": "6aeda9187fe7a0086575519c386523ec6ffd306f6336fc776cb8cbad57f2c6cb"
+    },
+    {
+      "day": 264,
+      "title": "A justiça dentro da própria casa",
+      "pdfPage": 1330,
+      "image": "images/devocionais/dia-264.webp",
+      "sha256": "6860a2fadd658cd2730dd7ad91ce4e17bf171f250be4f979a40db2b6baed1761"
+    },
+    {
+      "day": 265,
+      "title": "O respeito entre gerações",
+      "pdfPage": 1335,
+      "image": "images/devocionais/dia-265.webp",
+      "sha256": "5c44d3e4a6bb3058271a8ec11ca8a7de597b5494317e35f9a2bafc3ad03d55e1"
+    },
+    {
+      "day": 266,
+      "title": "A responsabilidade de acolher o estrangeiro",
+      "pdfPage": 1340,
+      "image": "images/devocionais/dia-266.webp",
+      "sha256": "0368516215da9ec06cc929dbc98574c597aeceb1a949455416501bced07ee2a5"
+    },
+    {
+      "day": 267,
+      "title": "A generosidade que preserva a dignidade",
+      "pdfPage": 1345,
+      "image": "images/devocionais/dia-267.webp",
+      "sha256": "db15ca0743502234ee91a611efb92856a60ad590cd9483d26c7645a55560dfe3"
+    },
+    {
+      "day": 268,
+      "title": "O valor de ensinar uma profissão ou habilidade",
+      "pdfPage": 1350,
+      "image": "images/devocionais/dia-268.webp",
+      "sha256": "52688d52eb34895e98413a14bc95d6d3807715b26f7da888ccbc61e78f5bdfba"
+    },
+    {
+      "day": 269,
+      "title": "A liderança diante de uma crise",
+      "pdfPage": 1355,
+      "image": "images/devocionais/dia-269.webp",
+      "sha256": "6178cc2c0ad9ca025eec1c12a0c605fd76ec51d583d0943cddf707ab96d49cb3"
+    },
+    {
+      "day": 270,
+      "title": "Quando a equipe precisa de encorajamento",
+      "pdfPage": 1360,
+      "image": "images/devocionais/dia-270.webp",
+      "sha256": "b2c4768a6cc25ed67268b1ecca0fbc6c117f804ebbb51ad0c90f7f1ff5a81ef7"
+    },
+    {
+      "day": 271,
+      "title": "A responsabilidade de corrigir sem favoritismo",
+      "pdfPage": 1365,
+      "image": "images/devocionais/dia-271.webp",
+      "sha256": "f2b6c895f687c362ef24377d1a6461ada33ee61c32da5999988da32efef4d418"
+    },
+    {
+      "day": 272,
+      "title": "O serviço que não depende de posição",
+      "pdfPage": 1370,
+      "image": "images/devocionais/dia-272.webp",
+      "sha256": "3ea59d356d1968ef6c2e2a91d795aecbf25e714f94528fdc830b0290605083d6"
+    },
+    {
+      "day": 273,
+      "title": "A medida da grandeza segundo Jesus",
+      "pdfPage": 1375,
+      "image": "images/devocionais/dia-273.webp",
+      "sha256": "03670e50144d9db7bfd5ec315d582f4b64701ca9c1f24ee1bb9564a16eb0508c"
+    },
+    {
+      "day": 274,
+      "title": "Conte seus dias com sabedoria",
+      "pdfPage": 1380,
+      "image": "images/devocionais/dia-274.webp",
+      "sha256": "c367e6df98ac212b0403f5d2f23b63e61e3c467841394f272ec3ec45452c22b3"
+    },
+    {
+      "day": 275,
+      "title": "A fragilidade da vida humana",
+      "pdfPage": 1385,
+      "image": "images/devocionais/dia-275.webp",
+      "sha256": "2724dde9833e2caba857c41485fa1918784ae8b975e96a42f1156f17bda5c19e"
+    },
+    {
+      "day": 276,
+      "title": "Quando a morte interrompe os planos",
+      "pdfPage": 1390,
+      "image": "images/devocionais/dia-276.webp",
+      "sha256": "e5ae3bde04d01db0a680dfac78d78daef8862bf53b925f1c667bb3533e109bc9"
+    },
+    {
+      "day": 277,
+      "title": "O luto que não precisa esconder lágrimas",
+      "pdfPage": 1395,
+      "image": "images/devocionais/dia-277.webp",
+      "sha256": "3aaeb1bac0a2d305b72ec10e4fb72c24ee086c692bd21aec5176ec7560c04060"
+    },
+    {
+      "day": 278,
+      "title": "A esperança cristã diante do túmulo",
+      "pdfPage": 1400,
+      "image": "images/devocionais/dia-278.webp",
+      "sha256": "dc01f1cd5b48663c08439f1d655a67592279c1c7d9e725c224470698ba705bbd"
+    },
+    {
+      "day": 279,
+      "title": "A diferença entre memória e presença",
+      "pdfPage": 1405,
+      "image": "images/devocionais/dia-279.webp",
+      "sha256": "dcee7e81d7407d7afa7dd459aac89afbc6a35589cadb16ab08188dc0c6c5852d"
+    },
+    {
+      "day": 280,
+      "title": "Não adie o pedido de perdão",
+      "pdfPage": 1410,
+      "image": "images/devocionais/dia-280.webp",
+      "sha256": "c8b97e6cd549f32a1c18407a498ff8341fdd45656b564b16b39d86c5aac07838"
+    },
+    {
+      "day": 281,
+      "title": "O legado que você deixa nas pessoas",
+      "pdfPage": 1415,
+      "image": "images/devocionais/dia-281.webp",
+      "sha256": "09934ebe2071eb62e9b5672bfbbff7ac3250f82075a630e2f8ef06f6a2d0232a"
+    },
+    {
+      "day": 282,
+      "title": "A brevidade da fama humana",
+      "pdfPage": 1420,
+      "image": "images/devocionais/dia-282.webp",
+      "sha256": "12cbffd7f3bc3068d87f392d6289f2d01133709a4aeb7948c0b8e0bf03c2dc3b"
+    },
+    {
+      "day": 283,
+      "title": "Quando os bens ficam para trás",
+      "pdfPage": 1425,
+      "image": "images/devocionais/dia-283.webp",
+      "sha256": "c9e21d746c2df0bbc063b65d905abab75c2404c895ec12b30b9bf956d085675e"
+    },
+    {
+      "day": 284,
+      "title": "A esperança da ressurreição",
+      "pdfPage": 1430,
+      "image": "images/devocionais/dia-284.webp",
+      "sha256": "4e78affde147f28c0575809ac0b30a3c624733b236409a0043e4bd9ac9ab9303"
+    },
+    {
+      "day": 285,
+      "title": "A promessa de uma vida sem morte",
+      "pdfPage": 1435,
+      "image": "images/devocionais/dia-285.webp",
+      "sha256": "571674134468ee0678e21533481d133ec13946193b901cfacf65d860a8adfff9"
+    },
+    {
+      "day": 286,
+      "title": "Não confunda aceitação com resignação fatalista",
+      "pdfPage": 1440,
+      "image": "images/devocionais/dia-286.webp",
+      "sha256": "31bf13599e8ea3b699357ec174dcfee1adbdde15c07065cb32dfa27761cecb13"
+    },
+    {
+      "day": 287,
+      "title": "A coragem de conversar sobre a morte",
+      "pdfPage": 1445,
+      "image": "images/devocionais/dia-287.webp",
+      "sha256": "b27648c9cbf3f481106566e113a6d7f95a0b1333e9a64706d48ace2fca65b4ab"
+    },
+    {
+      "day": 288,
+      "title": "O valor de reconciliar-se antes que seja tarde",
+      "pdfPage": 1450,
+      "image": "images/devocionais/dia-288.webp",
+      "sha256": "1b3d91e3881f5f2edf40c3e1092495afff7fbca9b85e20e5a3054b6cfbe73f69"
+    },
+    {
+      "day": 289,
+      "title": "Quando envelhecer exige novas prioridades",
+      "pdfPage": 1455,
+      "image": "images/devocionais/dia-289.webp",
+      "sha256": "26bdd0161d5de944b759c457a03fa8d54bce02425e5bfa5d48f13e6a5c1e3450"
+    },
+    {
+      "day": 290,
+      "title": "A dignidade de quem perdeu a autonomia",
+      "pdfPage": 1460,
+      "image": "images/devocionais/dia-290.webp",
+      "sha256": "3986a3a03f21d1376276a4fcbdde2dae942d24e6ab316c9bac031dfb9789e142"
+    },
+    {
+      "day": 291,
+      "title": "A esperança que não depende da juventude",
+      "pdfPage": 1465,
+      "image": "images/devocionais/dia-291.webp",
+      "sha256": "33459f3f707c75b4e4b7eb1044de32ee3f74e22fac7874b092ac52e7ac16aadd"
+    },
+    {
+      "day": 292,
+      "title": "A diferença entre legado material e legado moral",
+      "pdfPage": 1470,
+      "image": "images/devocionais/dia-292.webp",
+      "sha256": "34a9656e39bd61db5062b56fe220cdd320ed87747a05645031b47b3fd9a9fd95"
+    },
+    {
+      "day": 293,
+      "title": "A urgência de viver com propósito",
+      "pdfPage": 1475,
+      "image": "images/devocionais/dia-293.webp",
+      "sha256": "7a3970bd98b47ff6350541e903556583da3b389445ac4cb9e6e184699084bb1c"
+    },
+    {
+      "day": 294,
+      "title": "A ressurreição como fundamento da esperança",
+      "pdfPage": 1480,
+      "image": "images/devocionais/dia-294.webp",
+      "sha256": "8399aa1078307a4e264cbddcceef8f252160855950b0050816839ca8a862927f"
+    },
+    {
+      "day": 295,
+      "title": "A promessa de reencontro em Cristo",
+      "pdfPage": 1485,
+      "image": "images/devocionais/dia-295.webp",
+      "sha256": "73545f3e76f5d893289f27569d1e0e5b2348199b11b12ec4802c8c697d0553c6"
+    },
+    {
+      "day": 296,
+      "title": "A justiça final diante do sofrimento humano",
+      "pdfPage": 1490,
+      "image": "images/devocionais/dia-296.webp",
+      "sha256": "9bebe9bad9a900c2acb0ead78702268123461a6829023ac9b77e2b18a7289cae"
+    },
+    {
+      "day": 297,
+      "title": "A nova criação e o fim da dor",
+      "pdfPage": 1495,
+      "image": "images/devocionais/dia-297.webp",
+      "sha256": "10283d9389368fbe71fb4a090649e4d5d7ad8d857e968f475771a6dfd659475d"
+    },
+    {
+      "day": 298,
+      "title": "A esperança bíblica além da imortalidade natural",
+      "pdfPage": 1500,
+      "image": "images/devocionais/dia-298.webp",
+      "sha256": "b98ca8c72cbf336a13829fb5fcd165004ca1d39d9b11754955088563ab15bee5"
+    },
+    {
+      "day": 299,
+      "title": "A responsabilidade de viver enquanto há tempo",
+      "pdfPage": 1505,
+      "image": "images/devocionais/dia-299.webp",
+      "sha256": "d13c1e86b44bcad85b122fc46e45ebd5c2b73e187643ecd6504c39ac73fa4a88"
+    },
+    {
+      "day": 300,
+      "title": "A paz de quem confia o futuro a Deus",
+      "pdfPage": 1510,
+      "image": "images/devocionais/dia-300.webp",
+      "sha256": "443585cefda682ecdc39790579bcf74f6ed8d58087a4c25221ac6e27c965c36e"
+    },
+    {
+      "day": 301,
+      "title": "A coragem de enfrentar uma despedida",
+      "pdfPage": 1515,
+      "image": "images/devocionais/dia-301.webp",
+      "sha256": "db32dada9134cae3250033543cef94f17f3d988e344412a936f6097d48be1068"
+    },
+    {
+      "day": 302,
+      "title": "Quando o passado exige reparação",
+      "pdfPage": 1520,
+      "image": "images/devocionais/dia-302.webp",
+      "sha256": "25e860d0715466049897dcb7dfa27b88a84dd7ff0c183a143fecb941c59c7419"
+    },
+    {
+      "day": 303,
+      "title": "A vida avaliada à luz da eternidade",
+      "pdfPage": 1525,
+      "image": "images/devocionais/dia-303.webp",
+      "sha256": "2b41f88f714d28f956242e2304da0aa2dcc135ad0837bb1f74c39cf906c8e5d8"
+    },
+    {
+      "day": 304,
+      "title": "Viva hoje sem perder de vista a ressurreição",
+      "pdfPage": 1530,
+      "image": "images/devocionais/dia-304.webp",
+      "sha256": "10e1533ad73a784abd2473e512e4ee254ffc09cb73544297f96f927fac30faa8"
+    },
+    {
+      "day": 305,
+      "title": "A oração que começa com sinceridade",
+      "pdfPage": 1535,
+      "image": "images/devocionais/dia-305.webp",
+      "sha256": "25929953680457a1a0d9607440dddb99aff50002d655a4628b8dc4630b1f3064"
+    },
+    {
+      "day": 306,
+      "title": "A graça diante da própria insuficiência",
+      "pdfPage": 1540,
+      "image": "images/devocionais/dia-306.webp",
+      "sha256": "85028303e80fb4c83d63a66fe31ea358d713ffc06540dd8b9c2d2a5c44f30a5d"
+    },
+    {
+      "day": 307,
+      "title": "A diferença entre disciplina espiritual e mérito",
+      "pdfPage": 1545,
+      "image": "images/devocionais/dia-307.webp",
+      "sha256": "441160c3ff904536bffcc52ec0a707a25c0a68c4af82a5f1ec2efd7fa7773d2e"
+    },
+    {
+      "day": 308,
+      "title": "A confiança que nasce da Palavra",
+      "pdfPage": 1550,
+      "image": "images/devocionais/dia-308.webp",
+      "sha256": "633b9bf3e019f5fc4e17b554d8a58db93e4943fee53539df69e2652d922816fc"
+    },
+    {
+      "day": 309,
+      "title": "Quando obedecer exige renunciar à própria vontade",
+      "pdfPage": 1555,
+      "image": "images/devocionais/dia-309.webp",
+      "sha256": "492acf0f11e0e6fd346a87da52e24569f0ef6eac57fd906c6f6b413cfcdb876b"
+    },
+    {
+      "day": 310,
+      "title": "A oração em períodos de silêncio",
+      "pdfPage": 1560,
+      "image": "images/devocionais/dia-310.webp",
+      "sha256": "fce5c8b066b823e4449e1568f2f793ee85f0ccab6f18254cd2a82ad88a78530c"
+    },
+    {
+      "day": 311,
+      "title": "A confissão que abre espaço para restauração",
+      "pdfPage": 1565,
+      "image": "images/devocionais/dia-311.webp",
+      "sha256": "e01e8122eae884e048372d4c356a2653a60169df26bfcab11ae3a69d4bd78adb"
+    },
+    {
+      "day": 312,
+      "title": "A fé que age com responsabilidade",
+      "pdfPage": 1570,
+      "image": "images/devocionais/dia-312.webp",
+      "sha256": "2e64bc6dae4ed45093aade13b238b51c8cda287362e6a3e565232e9245c9b219"
+    },
+    {
+      "day": 313,
+      "title": "A dependência diária de Deus",
+      "pdfPage": 1575,
+      "image": "images/devocionais/dia-313.webp",
+      "sha256": "fe67f2c769dbbde28effdd54697d44dbf967d7e75bbdfa31c968dd91dfd6fe63"
+    },
+    {
+      "day": 314,
+      "title": "A tentação de confiar somente na própria força",
+      "pdfPage": 1580,
+      "image": "images/devocionais/dia-314.webp",
+      "sha256": "2442869317c1b3764adfb2bdc5e9767f58f13d4c36f4d46d84cf1342c0f4e33d"
+    },
+    {
+      "day": 315,
+      "title": "O arrependimento que muda a direção",
+      "pdfPage": 1585,
+      "image": "images/devocionais/dia-315.webp",
+      "sha256": "87420da15e101212c4943de3806c10b557de48961f0d7ed71e89bf594261b949"
+    },
+    {
+      "day": 316,
+      "title": "A diferença entre culpa e convicção espiritual",
+      "pdfPage": 1590,
+      "image": "images/devocionais/dia-316.webp",
+      "sha256": "480b99cf4a6962f4817e6f0a9caa7124557c1384f74b10a1968441293486ca98"
+    },
+    {
+      "day": 317,
+      "title": "A Palavra que examina as intenções",
+      "pdfPage": 1595,
+      "image": "images/devocionais/dia-317.webp",
+      "sha256": "e83cf51a3fb5859ccf7c5d1000a9a92fd1955c65a0ce35555a45e892607e426e"
+    },
+    {
+      "day": 318,
+      "title": "A oração que inclui os inimigos",
+      "pdfPage": 1600,
+      "image": "images/devocionais/dia-318.webp",
+      "sha256": "62b9d363b6a47bcc24325dd98622f3f7194012e4299c6ff90530710c5967c6e9"
+    },
+    {
+      "day": 319,
+      "title": "A gratidão que não ignora a dor",
+      "pdfPage": 1605,
+      "image": "images/devocionais/dia-319.webp",
+      "sha256": "e6b68c7dff7dfcd30365ff954b633c0c70db13b7fc51f3f4d9e8dd41fbaebc5c"
+    },
+    {
+      "day": 320,
+      "title": "A confiança durante a espera pela resposta",
+      "pdfPage": 1610,
+      "image": "images/devocionais/dia-320.webp",
+      "sha256": "c30a540858501766759fba64fb788d5252af1e9089ff323cf12f4cf642dffb63"
+    },
+    {
+      "day": 321,
+      "title": "A transformação do caráter pelo Espírito Santo",
+      "pdfPage": 1615,
+      "image": "images/devocionais/dia-321.webp",
+      "sha256": "c11b8ace4d77a6c6e68c81b8cfbe76d1b6d9efcc6f13b1b4b1eec6f47cf2681d"
+    },
+    {
+      "day": 322,
+      "title": "A santidade nas escolhas comuns",
+      "pdfPage": 1620,
+      "image": "images/devocionais/dia-322.webp",
+      "sha256": "fed74de0a74ed48d49693e52bb27b0ab398419dbb91566f7f64cdec216a52962"
+    },
+    {
+      "day": 323,
+      "title": "O perigo de praticar religião para ser visto",
+      "pdfPage": 1625,
+      "image": "images/devocionais/dia-323.webp",
+      "sha256": "436d6e280b21514643c58804406a805a402f43e57ac84033f39c84f94b3a8cfa"
+    },
+    {
+      "day": 324,
+      "title": "A comunhão que fortalece a perseverança",
+      "pdfPage": 1630,
+      "image": "images/devocionais/dia-324.webp",
+      "sha256": "73ef287d43c4d4f69e8d5a7eb8554cf35340cd6a129a0eaf9ce995bd0c4b2d60"
+    },
+    {
+      "day": 325,
+      "title": "A obediência que nasce do amor",
+      "pdfPage": 1635,
+      "image": "images/devocionais/dia-325.webp",
+      "sha256": "91fb13fb5f124a335eb9e30c3595cff7ed155d4b5bcc0b5d25a08d5c57197325"
+    },
+    {
+      "day": 326,
+      "title": "A fé diante das tentações repetidas",
+      "pdfPage": 1640,
+      "image": "images/devocionais/dia-326.webp",
+      "sha256": "b5eb88eeaf12f19a7bd9682516a6686ceed5f4a9aa09e09a134a5eb81b132446"
+    },
+    {
+      "day": 327,
+      "title": "Quando a oração precisa acompanhar uma decisão",
+      "pdfPage": 1645,
+      "image": "images/devocionais/dia-327.webp",
+      "sha256": "d410bb7258c8f7122e826847cca951967fa0341e01565da57a1bbc58abec00a2"
+    },
+    {
+      "day": 328,
+      "title": "A confiança no perdão de Deus",
+      "pdfPage": 1650,
+      "image": "images/devocionais/dia-328.webp",
+      "sha256": "309c4880d88c4c3007e35590850a9b6220362eaacb3c2555833f244439b4ee8c"
+    },
+    {
+      "day": 329,
+      "title": "A diferença entre autocontrole e transformação espiritual",
+      "pdfPage": 1655,
+      "image": "images/devocionais/dia-329.webp",
+      "sha256": "71ca738ab03548d69a4c0d144a4219952b935ba41c69b86ca8932d80da7c1c2c"
+    },
+    {
+      "day": 330,
+      "title": "A esperança fundamentada nas promessas divinas",
+      "pdfPage": 1660,
+      "image": "images/devocionais/dia-330.webp",
+      "sha256": "d79ae059d787f228bfec68a00906e7a499c617dc01b138614df6e1b5f2cd1353"
+    },
+    {
+      "day": 331,
+      "title": "O descanso espiritual em Cristo",
+      "pdfPage": 1665,
+      "image": "images/devocionais/dia-331.webp",
+      "sha256": "114092c5cb6ffab1ae589b0255d0fe9e1811c97e6aa3e9b6ae4df80e18fcc0b5"
+    },
+    {
+      "day": 332,
+      "title": "A perseverança na oração intercessora",
+      "pdfPage": 1670,
+      "image": "images/devocionais/dia-332.webp",
+      "sha256": "eaf3fb2a82a9dde8986b6563d73d65129fc7548ed4d43ae5758acf5b6a21d571"
+    },
+    {
+      "day": 333,
+      "title": "A fé que permanece sem aplausos",
+      "pdfPage": 1675,
+      "image": "images/devocionais/dia-333.webp",
+      "sha256": "d03d792ef63591ec55599daae7b729f3823b98a94310ff2790cac1cf4ce2bed4"
+    },
+    {
+      "day": 334,
+      "title": "A entrega diária da própria vontade",
+      "pdfPage": 1680,
+      "image": "images/devocionais/dia-334.webp",
+      "sha256": "7e862c56f17ac7a438c28358fa4006a82c4a2fb35b85968454a252169a837cc0"
+    },
+    {
+      "day": 335,
+      "title": "Reconheça quem ajudou você a chegar até aqui",
+      "pdfPage": 1685,
+      "image": "images/devocionais/dia-335.webp",
+      "sha256": "7b692c9b5c9d437f557344db2367c989422db8d4345be305797138298d8103b1"
+    },
+    {
+      "day": 336,
+      "title": "A gratidão pelas coisas ordinárias",
+      "pdfPage": 1690,
+      "image": "images/devocionais/dia-336.webp",
+      "sha256": "ba1e7635336b6b8ff0d406f84f73638dac14d9837dcf44c86b7919ed3360c856"
+    },
+    {
+      "day": 337,
+      "title": "Faça as pazes com as limitações do ano",
+      "pdfPage": 1695,
+      "image": "images/devocionais/dia-337.webp",
+      "sha256": "3b9dac6081af646c262d9027d93acb2acb7919b7488559b28bfce82f92f5eff7"
+    },
+    {
+      "day": 338,
+      "title": "O que suas escolhas ensinaram à sua família",
+      "pdfPage": 1700,
+      "image": "images/devocionais/dia-338.webp",
+      "sha256": "56c8960175870c0c0d46a0798be5343001d6afb50f8946cfa3de3bc51891f168"
+    },
+    {
+      "day": 339,
+      "title": "Corrija os compromissos que ficaram pendentes",
+      "pdfPage": 1705,
+      "image": "images/devocionais/dia-339.webp",
+      "sha256": "2415a210c3248b36bb04f970c73f58e0694de8c61a1ba0647e2a9615af2dcc47"
+    },
+    {
+      "day": 340,
+      "title": "A coragem de abandonar um hábito prejudicial",
+      "pdfPage": 1710,
+      "image": "images/devocionais/dia-340.webp",
+      "sha256": "45452f5546e8af237d2edb73e434b1d3ce576d13c72969e4542e43c7d7ed6015"
+    },
+    {
+      "day": 341,
+      "title": "Não leve ressentimentos para o próximo ciclo",
+      "pdfPage": 1715,
+      "image": "images/devocionais/dia-341.webp",
+      "sha256": "a163c2353ea41d974f8636bb132b5dc4abb465e571bfb6e0f451c28c99c3e95e"
+    },
+    {
+      "day": 342,
+      "title": "Reconheça os frutos de uma disciplina silenciosa",
+      "pdfPage": 1720,
+      "image": "images/devocionais/dia-342.webp",
+      "sha256": "2b59ffb0af5674466c3a14c63fa356cfa8daa39fe1bd2c0bc364bb9a1ad7e93b"
+    },
+    {
+      "day": 343,
+      "title": "A gratidão que se transforma em generosidade",
+      "pdfPage": 1725,
+      "image": "images/devocionais/dia-343.webp",
+      "sha256": "088bad17c8661212aaf0e9dcb79445bba3775d115b530c373050116f008de400"
+    },
+    {
+      "day": 344,
+      "title": "Avalie suas prioridades pelo uso do tempo",
+      "pdfPage": 1730,
+      "image": "images/devocionais/dia-344.webp",
+      "sha256": "decafdb50f76cf1ffd9e4ca6add204b55975901f631e4fdeebdeffb127b7eba5"
+    },
+    {
+      "day": 345,
+      "title": "O que precisa mudar na maneira de tratar os outros",
+      "pdfPage": 1735,
+      "image": "images/devocionais/dia-345.webp",
+      "sha256": "17eace365f5be1f9fd4dd337e0d40b5909f6ca5f7802833f6bb7f1b7765568c3"
+    },
+    {
+      "day": 346,
+      "title": "Repare o que sua negligência danificou",
+      "pdfPage": 1740,
+      "image": "images/devocionais/dia-346.webp",
+      "sha256": "42603234e9f4cece434869d41b1bab781f9604dc03454a9e517c3f65b06a384b"
+    },
+    {
+      "day": 347,
+      "title": "A humildade de agradecer por uma correção",
+      "pdfPage": 1745,
+      "image": "images/devocionais/dia-347.webp",
+      "sha256": "7c289429361697086dd19a9674666e6032ec22a57214954fc0a829d72910e7e2"
+    },
+    {
+      "day": 348,
+      "title": "Não confunda um ano difícil com uma vida fracassada",
+      "pdfPage": 1750,
+      "image": "images/devocionais/dia-348.webp",
+      "sha256": "4e2faf9b364c05f24488b839ac12f8097d4b6379d8aa86d91bb7c95576206916"
+    },
+    {
+      "day": 349,
+      "title": "A esperança de começar de novo",
+      "pdfPage": 1755,
+      "image": "images/devocionais/dia-349.webp",
+      "sha256": "282ecef0b577d7e2b08091628eab8aa244933ed1feab0e7db600719d130c9c53"
+    },
+    {
+      "day": 350,
+      "title": "Escolha uma prática para fortalecer sua fé",
+      "pdfPage": 1760,
+      "image": "images/devocionais/dia-350.webp",
+      "sha256": "09ac319094d1a926dea2dc0f6e14364f163989b07135ac81b7fa17860e7905ef"
+    },
+    {
+      "day": 351,
+      "title": "O valor de terminar o ano com a consciência limpa",
+      "pdfPage": 1765,
+      "image": "images/devocionais/dia-351.webp",
+      "sha256": "d201f2b19dee642120ed36baaa93638cc4b11724369297f23805646cb6dbe542"
+    },
+    {
+      "day": 352,
+      "title": "A generosidade que continua depois das festas",
+      "pdfPage": 1770,
+      "image": "images/devocionais/dia-352.webp",
+      "sha256": "7f745ce25efb6a1816641fc6d3fc65d94bbb21befeb7c8bb61b70310c3ae8c90"
+    },
+    {
+      "day": 353,
+      "title": "Aprenda a celebrar sem se comparar",
+      "pdfPage": 1775,
+      "image": "images/devocionais/dia-353.webp",
+      "sha256": "8a5f580dee7a9fb96e3cbd14daa4efe8dfab3af5a27bc483e9f84177a67b3f56"
+    },
+    {
+      "day": 354,
+      "title": "O cuidado com quem enfrenta datas difíceis",
+      "pdfPage": 1780,
+      "image": "images/devocionais/dia-354.webp",
+      "sha256": "00ed84a7d510aa5bd59a0fcee93454dac7886e2f9edc9002e2020e81d8d68dfa"
+    },
+    {
+      "day": 355,
+      "title": "A família como compromisso diário",
+      "pdfPage": 1785,
+      "image": "images/devocionais/dia-355.webp",
+      "sha256": "ccdd70f89ca3ebfda8a73284f289976b9bbeb435c3be78eaa944bce1a5f91f5e"
+    },
+    {
+      "day": 356,
+      "title": "A diferença entre promessas e mudanças concretas",
+      "pdfPage": 1790,
+      "image": "images/devocionais/dia-356.webp",
+      "sha256": "82186c297784f9e3debe7437c1c521eac8ccb3a9813cdb75a2e49da6bf39631e"
+    },
+    {
+      "day": 357,
+      "title": "O legado de uma vida íntegra",
+      "pdfPage": 1795,
+      "image": "images/devocionais/dia-357.webp",
+      "sha256": "f539aebb789baad4a6fc3b9ddb58fa0ef03d69e25b2c6c7063275d72af317141"
+    },
+    {
+      "day": 358,
+      "title": "Entregue a Deus os planos do próximo ano",
+      "pdfPage": 1800,
+      "image": "images/devocionais/dia-358.webp",
+      "sha256": "3ce2f6fed13fd82df0d409bfd9985a6585c57b9f5dfcce4e87a0e0e73bfc4fa7"
+    },
+    {
+      "day": 359,
+      "title": "Prepare-se para o futuro sem ansiedade excessiva",
+      "pdfPage": 1805,
+      "image": "images/devocionais/dia-359.webp",
+      "sha256": "3bc60e1ed6c8f5efceb6698d178d36e1f804e690e1acf7a9af6ec9d848473c2e"
+    },
+    {
+      "day": 360,
+      "title": "A sabedoria de escolher o que merece continuidade",
+      "pdfPage": 1810,
+      "image": "images/devocionais/dia-360.webp",
+      "sha256": "097b36325f11ff1e52ac6f164784a608ba2b58e098a67c4a5bd01fcd960f4433"
+    },
+    {
+      "day": 361,
+      "title": "A coragem de reconhecer o que precisa terminar",
+      "pdfPage": 1815,
+      "image": "images/devocionais/dia-361.webp",
+      "sha256": "6023ca27a531e22db70c6ed40b92d7e14e07e0890cad80921c744614d945ee87"
+    },
+    {
+      "day": 362,
+      "title": "Faça do perdão uma decisão acompanhada de atitudes",
+      "pdfPage": 1820,
+      "image": "images/devocionais/dia-362.webp",
+      "sha256": "d42da0821533b88ecb7bdf1189188676fb2e5c9b52e8d47fa40b7837463ec582"
+    },
+    {
+      "day": 363,
+      "title": "O propósito que permanece quando as metas mudam",
+      "pdfPage": 1825,
+      "image": "images/devocionais/dia-363.webp",
+      "sha256": "3b1b42b98cce6e735b01659c781d22c6035e2f8b84aafb6480ae536963bd79cb"
+    },
+    {
+      "day": 364,
+      "title": "A fidelidade a Deus em cada nova etapa",
+      "pdfPage": 1830,
+      "image": "images/devocionais/dia-364.webp",
+      "sha256": "8041009bf651cd66d578d04e0dd20b24c5a5e0df56d19d75c4c6d18b1e4a2cdd"
+    },
+    {
+      "day": 365,
+      "title": "Entre no novo ano com fé, responsabilidade e esperança",
+      "pdfPage": 1835,
+      "image": "images/devocionais/dia-365.webp",
+      "sha256": "123eb7a1671feada82a7779a8431bd0dcfcd4713ba2ce3c306c0f7235857cc1e"
+    }
+  ]
+}
